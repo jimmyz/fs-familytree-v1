@@ -1,0 +1,1879 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<familytree xmlns="http://api.familysearch.org/familytree/v1" xmlns:fsapi-v1="http://api.familysearch.org/v1" version="1.3.20081106.2911" statusMessage="OK" statusCode="200">
+	<persons>
+		<person version="1220897348000" requestedId="KJ86-3VD" modified="2008-09-08T12:09:08-06:00" id="KJ86-3VD">
+			<information>
+				<alternateIds>
+					<id>afn.3QF9-L9</id>
+					<id>MW9J-WJG</id>
+					<id>M3HK-TXR</id>
+					<id>9MLX-VH4</id>
+					<id>MBNX-KS6</id>
+					<id>M18C-SB2</id>
+					<id>MP2F-PLH</id>
+					<id>MX7K-2W5</id>
+					<id>MK2N-7C7</id>
+					<id>MBKM-TKD</id>
+					<id>MKKY-JWD</id>
+					<id>93RM-TKL</id>
+					<id>MKCN-912</id>
+					<id>MT6C-PK2</id>
+					<id>97ZG-DJ2</id>
+					<id>MKZ8-GB8</id>
+					<id>MJLC-VTT</id>
+					<id>94ZS-2Z7</id>
+					<id>ML3J-S6X</id>
+					<id>MBNF-K4X</id>
+					<id>9XT2-W88</id>
+					<id>99HF-9B1</id>
+					<id>MN7Y-6M3</id>
+					<id>MN98-WRV</id>
+					<id>M95X-T55</id>
+					<id>93M2-998</id>
+					<id>KN7S-K9Q</id>
+					<id>MV5Q-H54</id>
+					<id>M465-K46</id>
+					<id>KZWW-DWP</id>
+					<id>M942-N86</id>
+					<id>MN63-W6J</id>
+					<id>M5GC-HGB</id>
+					<id>KCB7-NSP</id>
+					<id>MK2D-KBF</id>
+					<id>KJ86-3VD</id>
+				</alternateIds>
+				<gender>Male</gender>
+				<living>false</living>
+			</information>
+			<assertions>
+				<name type="Name" version="1172152583167" submitter="MMMM-MM8" modified="2007-02-22T06:56:23.167-07:00" modifiable="false" id="aWZzLWZ0LnAuTTk0Mi1OODY6NDAwMDAyaWoyWk10Rmw0RGF4M0dSMDAx" disputing="false" contributor="MMWG-V3Y" tempId="primaryName">
+					<forms>
+						<form script="Spanish">
+							<fullText>Parker Felch</fullText>
+							<pieces>
+								<piece type="Given">
+									<value>Parker</value>
+								</piece>
+								<piece type="Family">
+									<value>Felch</value>
+								</piece>
+							</pieces>
+						</form>
+					</forms>
+				</name>
+				<name type="Name" version="1172178222946" submitter="MMMM-MM8" modified="2007-02-22T14:03:42.946-07:00" modifiable="false" id="aWZzLWZ0LnAuTTk1WC1UNTU6NDAwMDAyVWUyWk10RUc0RGg0R1k0MDAw" disputing="false" contributor="MMWG-V3Y">
+					<forms>
+						<form>
+							<fullText>Parker Felch</fullText>
+							<pieces>
+								<piece type="Given">
+									<value>Parker</value>
+								</piece>
+								<piece type="Family">
+									<value>Felch</value>
+								</piece>
+							</pieces>
+						</form>
+					</forms>
+				</name>
+				<name type="Name" version="1172239315104" submitter="MMMM-MM8" modified="2007-02-23T07:01:55.104-07:00" modifiable="false" id="aWZzLWZ0LnAuTTQ2NS1LNDY6NDAwMDA2Wi0yWk10R1c0RHZjV3FzMDAx" disputing="false" contributor="MMWG-V3Y">
+					<forms>
+						<form>
+							<fullText>Parker Felch</fullText>
+							<pieces>
+								<piece type="Given">
+									<value>Parker</value>
+								</piece>
+								<piece type="Family">
+									<value>Felch</value>
+								</piece>
+							</pieces>
+						</form>
+					</forms>
+				</name>
+				<name type="Name" version="1172377654659" submitter="MMMM-MM8" modified="2007-02-24T21:27:34.659-07:00" modifiable="false" id="aWZzLWZ0LnAuTTNISy1UWFI6NDAwMDA1X0kyWkl0R1c0RVJiTEc0MDAw" disputing="false" contributor="MMWG-V3Y">
+					<forms>
+						<form>
+							<fullText>Parker Felch</fullText>
+							<pieces>
+								<piece type="Given">
+									<value>Parker</value>
+								</piece>
+								<piece type="Family">
+									<value>Felch</value>
+								</piece>
+							</pieces>
+						</form>
+					</forms>
+				</name>
+				<name type="Name" version="1172538214834" submitter="MMMM-MM8" modified="2007-02-26T18:03:34.834-07:00" modifiable="false" id="aWZzLWZ0LnAuTVg3Sy0yVzU6NDAwMDAwX2YyWkl0RjE0RjJ0SjBzMDAw" disputing="false" contributor="MMWG-V3Y">
+					<forms>
+						<form>
+							<fullText>Parker Felch</fullText>
+							<pieces>
+								<piece type="Given">
+									<value>Parker</value>
+								</piece>
+								<piece type="Family">
+									<value>Felch</value>
+								</piece>
+							</pieces>
+						</form>
+					</forms>
+				</name>
+				<name type="Name" version="1172620954627" submitter="MMMM-MM8" modified="2007-02-27T17:02:34.627-07:00" modifiable="false" id="aWZzLWZ0LnAuTU43WS02TTM6NDAwMDAxajMyWkl0Rmw0RkxicDNCMDAw" disputing="false" contributor="MMWG-V3Y">
+					<forms>
+						<form>
+							<fullText>Parker Felch</fullText>
+							<pieces>
+								<piece type="Given">
+									<value>Parker</value>
+								</piece>
+								<piece type="Family">
+									<value>Felch</value>
+								</piece>
+							</pieces>
+						</form>
+					</forms>
+				</name>
+				<name type="Name" version="1176502400904" submitter="MMMM-MM8" modified="2007-04-13T16:13:20.904-06:00" modifiable="false" id="aWZzLWZ0LnAuTU45OC1XUlY6NDAwMDA0OVQyWk10RWw0RlF5UkZWMDAx" disputing="false" contributor="MMMM-MMZ">
+					<forms>
+						<form>
+							<fullText>Parker Felch</fullText>
+							<pieces>
+								<piece type="Given">
+									<value>Parker</value>
+								</piece>
+								<piece type="Family">
+									<value>Felch</value>
+								</piece>
+							</pieces>
+						</form>
+					</forms>
+				</name>
+				<name type="Name" version="1172647705321" submitter="MMMM-MM8" modified="2007-02-28T00:28:25.321-07:00" modifiable="false" id="aWZzLWZ0LnAuTTVHQy1IR0I6NDAwMDAyWWUyWkl0SEc0RlMwMTZaMDAw" disputing="false" contributor="MMWG-V3Y">
+					<forms>
+						<form>
+							<fullText>Parker Felch</fullText>
+							<pieces>
+								<piece type="Given">
+									<value>Parker</value>
+								</piece>
+								<piece type="Family">
+									<value>Felch</value>
+								</piece>
+							</pieces>
+						</form>
+					</forms>
+				</name>
+				<name type="Name" version="1172649246968" submitter="MMMM-MM8" modified="2007-02-28T00:54:06.968-07:00" modifiable="false" id="aWZzLWZ0LnAuTU42My1XNko6NDAwMDA0TGcyWk10RzE0RlNNVnpvMDAw" disputing="false" contributor="MMWG-V3Y">
+					<forms>
+						<form>
+							<fullText>Parker Felch</fullText>
+							<pieces>
+								<piece type="Given">
+									<value>Parker</value>
+								</piece>
+								<piece type="Family">
+									<value>Felch</value>
+								</piece>
+							</pieces>
+						</form>
+					</forms>
+				</name>
+				<name type="Name" version="1172675338923" submitter="MMMM-MM8" modified="2007-02-28T08:08:58.923-07:00" modifiable="false" id="aWZzLWZ0LnAuTUwzSi1TNlg6NDAwMDA3cGQyWk10SUc0RllfY3kwMDAx" disputing="false" contributor="MMWG-V3Y">
+					<forms>
+						<form>
+							<fullText>Parker Felch</fullText>
+							<pieces>
+								<piece type="Given">
+									<value>Parker</value>
+								</piece>
+								<piece type="Family">
+									<value>Felch</value>
+								</piece>
+							</pieces>
+						</form>
+					</forms>
+				</name>
+				<name type="Name" version="1172704700133" submitter="MMMM-MM8" modified="2007-02-28T16:18:20.133-07:00" modifiable="false" id="aWZzLWZ0LnAuTUtaOC1HQjg6NDAwMDA0UXMyWkl0Rlc0RmVfZmxzMDAw" disputing="false" contributor="MMWG-V3Y">
+					<forms>
+						<form>
+							<fullText>Parker Felch</fullText>
+							<pieces>
+								<piece type="Given">
+									<value>Parker</value>
+								</piece>
+								<piece type="Family">
+									<value>Felch</value>
+								</piece>
+							</pieces>
+						</form>
+					</forms>
+				</name>
+				<name type="Name" version="1172731594644" submitter="MMMM-MM8" modified="2007-02-28T23:46:34.644-07:00" modifiable="false" id="aWZzLWZ0LnAuTVY1US1INTQ6NDAwMDA0T1IyWk10RjE0RmwwM3ZGMDAz" disputing="false" contributor="MMWG-V3Y">
+					<forms>
+						<form>
+							<fullText>Parker Felch</fullText>
+							<pieces>
+								<piece type="Given">
+									<value>Parker</value>
+								</piece>
+								<piece type="Family">
+									<value>Felch</value>
+								</piece>
+							</pieces>
+						</form>
+					</forms>
+				</name>
+				<name type="Name" version="1172821340900" submitter="MMMM-MM8" modified="2007-03-02T00:42:20.900-07:00" modifiable="false" id="aWZzLWZ0LnAuTVAyRi1QTEg6NDAwMDAwREcyWk10SDE0RzZPVDgwMDAw" disputing="false" contributor="MMWG-V3Y">
+					<forms>
+						<form>
+							<fullText>Parker Felch</fullText>
+							<pieces>
+								<piece type="Given">
+									<value>Parker</value>
+								</piece>
+								<piece type="Family">
+									<value>Felch</value>
+								</piece>
+							</pieces>
+						</form>
+					</forms>
+				</name>
+				<name type="Name" version="1172850021083" submitter="MMMM-MM8" modified="2007-03-02T08:40:21.083-07:00" modifiable="false" id="aWZzLWZ0LnAuTVQ2Qy1QSzI6NDAwMDAyczUyWk10SFc0R0NFNnFnMDAx" disputing="false" contributor="MMWG-V3Y">
+					<forms>
+						<form>
+							<fullText>Parker Felch</fullText>
+							<pieces>
+								<piece type="Given">
+									<value>Parker</value>
+								</piece>
+								<piece type="Family">
+									<value>Felch</value>
+								</piece>
+							</pieces>
+						</form>
+					</forms>
+				</name>
+				<name type="Name" version="1172953775418" submitter="MMMM-MM8" modified="2007-03-03T13:29:35.418-07:00" modifiable="false" id="aWZzLWZ0LnAuTUJOWC1LUzY6NDAwMDA2NGkyWkl0RzE0R195Rlc4MDAw" disputing="false" contributor="MMWG-V3Y">
+					<forms>
+						<form>
+							<fullText>Parker Felch</fullText>
+							<pieces>
+								<piece type="Given">
+									<value>Parker</value>
+								</piece>
+								<piece type="Family">
+									<value>Felch</value>
+								</piece>
+							</pieces>
+						</form>
+					</forms>
+				</name>
+				<name type="Name" version="1172955706836" submitter="MMMM-MM8" modified="2007-03-03T14:01:46.836-07:00" modifiable="false" id="aWZzLWZ0LnAuTUJORi1LNFg6NDAwMDA2NGkyWkl0RzE0R2FRa0owMDAw" disputing="false" contributor="MMWG-V3Y">
+					<forms>
+						<form>
+							<fullText>Parker Felch</fullText>
+							<pieces>
+								<piece type="Given">
+									<value>Parker</value>
+								</piece>
+								<piece type="Family">
+									<value>Felch</value>
+								</piece>
+							</pieces>
+						</form>
+					</forms>
+				</name>
+				<name type="Name" version="1172964761494" submitter="MMMM-MM8" modified="2007-03-03T16:32:41.494-07:00" modifiable="false" id="aWZzLWZ0LnAuTTE4Qy1TQjI6NDAwMDAwNloyWk10SDE0R2Nfdi04MDAw" disputing="false" contributor="MMWG-V3Y">
+					<forms>
+						<form>
+							<fullText>Parker Felch</fullText>
+							<pieces>
+								<piece type="Given">
+									<value>Parker</value>
+								</piece>
+								<piece type="Family">
+									<value>Felch</value>
+								</piece>
+							</pieces>
+						</form>
+					</forms>
+				</name>
+				<name type="Name" version="1172976418019" submitter="MMMM-MM8" modified="2007-03-03T19:46:58.019-07:00" modifiable="false" id="aWZzLWZ0LnAuTUJLTS1US0Q6NDAwMDA3S1UyWk10SUc0R2ZNbV9jMDAz" disputing="false" contributor="MMWG-V3Y">
+					<forms>
+						<form>
+							<fullText>Parker Felch</fullText>
+							<pieces>
+								<piece type="Given">
+									<value>Parker</value>
+								</piece>
+								<piece type="Family">
+									<value>Felch</value>
+								</piece>
+							</pieces>
+						</form>
+					</forms>
+				</name>
+				<name type="Name" version="1173003668114" submitter="MMMM-MM8" modified="2007-03-04T03:21:08.114-07:00" modifiable="false" id="aWZzLWZ0LnAuOU1MWC1WSDQ6NDAwMDA1NzQyWkl0SFc0R2xyX2I4MDAy" disputing="false" contributor="MMWG-V3Y">
+					<forms>
+						<form>
+							<fullText>Parker Felch</fullText>
+							<pieces>
+								<piece type="Given">
+									<value>Parker</value>
+								</piece>
+								<piece type="Family">
+									<value>Felch</value>
+								</piece>
+							</pieces>
+						</form>
+					</forms>
+				</name>
+				<name type="Name" version="1173032404220" submitter="MMMM-MM8" modified="2007-03-04T11:20:04.220-07:00" modifiable="false" id="aWZzLWZ0LnAuOTlIRi05QjE6NDAwMDA3ajYyWkl0Rmw0R3NpNVU0MDAw" disputing="false" contributor="MMWG-V3Y">
+					<forms>
+						<form>
+							<fullText>Parker Felch</fullText>
+							<pieces>
+								<piece type="Given">
+									<value>Parker</value>
+								</piece>
+								<piece type="Family">
+									<value>Felch</value>
+								</piece>
+							</pieces>
+						</form>
+					</forms>
+				</name>
+				<gender version="1173994209749" submitter="MMMM-MM8" modified="2007-03-15T15:30:09.749-06:00" modifiable="false" id="aWZzLWZ0LnAuTU43WS02TTM6NDAwMDAyWE0yWk10U2w0S1QyMFN3MDAw" disputing="false" contributor="MMMM-MM8">
+					<value>Male</value>
+				</gender>
+				<gender version="1174004693459" submitter="MMMM-MM8" modified="2007-03-15T18:24:53.459-06:00" modifiable="false" id="aWZzLWZ0LnAuTTk1WC1UNTU6NDAwMDA1TUcyWkl0VjE0S1ZXeVRGMDA1" disputing="false" contributor="MMMM-MM8">
+					<value>Male</value>
+				</gender>
+				<gender version="1174016843729" submitter="MMMM-MM8" modified="2007-03-15T21:47:23.729-06:00" modifiable="false" id="aWZzLWZ0LnAuTTk0Mi1OODY6NDAwMDA3UzcyWk10RVc0S1lRU2NWMDAw" disputing="false" contributor="MMMM-MM8">
+					<value>Male</value>
+				</gender>
+				<gender version="1174021986912" submitter="MMMM-MM8" modified="2007-03-15T23:13:06.912-06:00" modifiable="false" id="aWZzLWZ0LnAuOVhUMi1XODg6NDAwMDAxc2UyWkl0SUc0S1pkeE8wMDAx" disputing="false" contributor="MMMM-MM8">
+					<value>Male</value>
+				</gender>
+				<gender version="1174030114587" submitter="MMMM-MM8" modified="2007-03-16T01:28:34.587-06:00" modifiable="false" id="aWZzLWZ0LnAuOU1MWC1WSDQ6NDAwMDAweFoyWk10UzE0S2Ffcm1zMDAw" disputing="false" contributor="MMMM-MM8">
+					<value>Male</value>
+				</gender>
+				<gender version="1174037206968" submitter="MMMM-MM8" modified="2007-03-16T03:26:46.968-06:00" modifiable="false" id="aWZzLWZ0LnAuOTNSTS1US0w6NDAwMDA1TTMyWk10Vkc0S2NINXdrMDAw" disputing="false" contributor="MMMM-MM8">
+					<value>Male</value>
+				</gender>
+				<gender version="1174048527201" submitter="MMMM-MM8" modified="2007-03-16T06:35:27.201-06:00" modifiable="false" id="aWZzLWZ0LnAuOTRaUy0yWjc6NDAwMDAxcEEyWkl0VjE0S2V5b3MwMDA2" disputing="false" contributor="MMMM-MM8">
+					<value>Male</value>
+				</gender>
+				<gender version="1174132637240" submitter="MMMM-MM8" modified="2007-03-17T05:57:17.240-06:00" modifiable="false" id="aWZzLWZ0LnAuTTk0Mi1OODY6NDAwMDA1ZTIyWk10Rmw0S3oyTWNrMDAx" disputing="false" contributor="MMMM-MM8">
+					<value>Male</value>
+				</gender>
+				<gender version="1174133850442" submitter="MMMM-MM8" modified="2007-03-17T06:17:30.442-06:00" modifiable="false" id="aWZzLWZ0LnAuTTk1WC1UNTU6NDAwMDA1b2EyWk10Rlc0S3pKbjNSMDAw" disputing="false" contributor="MMMM-MM8">
+					<value>Male</value>
+				</gender>
+				<gender version="1174133850442" submitter="MMMM-MM8" modified="2007-03-17T06:17:30.442-06:00" modifiable="false" id="aWZzLWZ0LnAuTTk1WC1UNTU6NDAwMDA1b2EyWk10Rlc0S3pKbjROMDAw" disputing="false" contributor="MMMM-MM8">
+					<value>Male</value>
+				</gender>
+				<gender version="1174186353742" submitter="MMMM-MM8" modified="2007-03-17T20:52:33.742-06:00" modifiable="false" id="aWZzLWZ0LnAuTVg3Sy0yVzU6NDAwMDAydHUyWk10RjE0TEFweDVnMDAx" disputing="false" contributor="MMMM-MM8">
+					<value>Male</value>
+				</gender>
+				<gender version="1174186353742" submitter="MMMM-MM8" modified="2007-03-17T20:52:33.742-06:00" modifiable="false" id="aWZzLWZ0LnAuTVg3Sy0yVzU6NDAwMDAydHUyWk10RjE0TEFweGZCMDAx" disputing="false" contributor="MMMM-MM8">
+					<value>Male</value>
+				</gender>
+				<gender version="1174194498812" submitter="MMMM-MM8" modified="2007-03-17T23:08:18.812-06:00" modifiable="false" id="aWZzLWZ0LnAuTVAyRi1QTEg6NDAwMDAyeGgyWkl0SDE0TENtQmZaMDAw" disputing="false" contributor="MMMM-MM8">
+					<value>Male</value>
+				</gender>
+				<gender version="1174194498812" submitter="MMMM-MM8" modified="2007-03-17T23:08:18.812-06:00" modifiable="false" id="aWZzLWZ0LnAuTVAyRi1QTEg6NDAwMDAyeGgyWkl0SDE0TENtQmtCMDAy" disputing="false" contributor="MMMM-MM8">
+					<value>Male</value>
+				</gender>
+				<gender version="1174194498812" submitter="MMMM-MM8" modified="2007-03-17T23:08:18.812-06:00" modifiable="false" id="aWZzLWZ0LnAuTVAyRi1QTEg6NDAwMDAyeGgyWkl0SDE0TENtQ3BaMDAy" disputing="false" contributor="MMMM-MM8">
+					<value>Male</value>
+				</gender>
+				<gender version="1174213297148" submitter="MMMM-MM8" modified="2007-03-18T04:21:37.148-06:00" modifiable="false" id="aWZzLWZ0LnAuTTQ2NS1LNDY6NDAwMDAyTlUyWk10Skc0TEhHMjhKMDAx" disputing="false" contributor="MMMM-MM8">
+					<value>Male</value>
+				</gender>
+				<gender version="1174213297148" submitter="MMMM-MM8" modified="2007-03-18T04:21:37.148-06:00" modifiable="false" id="aWZzLWZ0LnAuTTQ2NS1LNDY6NDAwMDAyTlUyWk10Skc0TEhHMzdOMDAw" disputing="false" contributor="MMMM-MM8">
+					<value>Male</value>
+				</gender>
+				<gender version="1174213297148" submitter="MMMM-MM8" modified="2007-03-18T04:21:37.148-06:00" modifiable="false" id="aWZzLWZ0LnAuTTQ2NS1LNDY6NDAwMDAyTlUyWk10Skc0TEhHNF8wMDAw" disputing="false" contributor="MMMM-MM8">
+					<value>Male</value>
+				</gender>
+				<gender version="1174213302864" submitter="MMMM-MM8" modified="2007-03-18T04:21:42.864-06:00" modifiable="false" id="aWZzLWZ0LnAuTTQ2NS1LNDY6NDAwMDAyTlUyWk10Skc0TEhHNndOMDAw" disputing="false" contributor="MMMM-MM8">
+					<value>Male</value>
+				</gender>
+				<gender version="1174233157590" submitter="MMMM-MM8" modified="2007-03-18T09:52:37.590-06:00" modifiable="false" id="aWZzLWZ0LnAuTUwzSi1TNlg6NDAwMDA1MVMyWkl0SUc0TE0wNXVOMDAx" disputing="false" contributor="MMMM-MM8">
+					<value>Male</value>
+				</gender>
+				<event type="Birth" scope="person" version="1172178222946" submitter="MMMM-MM8" modified="2007-02-22T14:03:42.946-07:00" modifiable="false" id="aWZzLWZ0LnAuTTk1WC1UNTU6NDAwMDAyVWUyWk10RUc0RGg0R1lGMDAw" disputing="false" contributor="MMWG-V3Y">
+					<date>
+						<original>2Nov1808</original>
+						<normalized>2 November 1808</normalized>
+						<astro>
+							<earliest>2381724</earliest>
+							<latest>2381724</latest>
+						</astro>
+					</date>
+					<place>
+						<normalized placeId="802556">Sandwich, Carroll, New Hampshire, United States</normalized>
+						<original>Sandwich, Carroll, New Hampshire</original>
+					</place>
+				</event>
+				<event type="Birth" scope="person" version="1173061954804" submitter="MMMM-MM8" modified="2007-03-04T19:32:34.804-07:00" modifiable="false" id="aWZzLWZ0LnAuOTNSTS1US0w6NDAwMDAzOVgyWkl0SDE0R3prd1JWMDAw" disputing="false" contributor="MMWG-V3Y">
+					<date>
+						<original>2Nov1808</original>
+						<normalized>2 November 1808</normalized>
+						<astro>
+							<earliest>2381724</earliest>
+							<latest>2381724</latest>
+						</astro>
+					</date>
+					<place>
+						<normalized placeId="802556">Sandwich, Carroll, New Hampshire, United States</normalized>
+						<original>Sandwich, Carroll, New Hampshire</original>
+					</place>
+				</event>
+				<event type="Birth" scope="person" version="1173193476898" submitter="MMMM-MM8" modified="2007-03-06T08:04:36.898-07:00" modifiable="false" id="aWZzLWZ0LnAuOTRaUy0yWjc6NDAwMDAzd3YyWkl0SUc0SFU3b0xOMDAw" disputing="false" contributor="MM38-KMV">
+					<date>
+						<original>2 Nov 1808</original>
+						<normalized>2 November 1808</normalized>
+						<astro>
+							<earliest>2381724</earliest>
+							<latest>2381724</latest>
+						</astro>
+					</date>
+					<place>
+						<normalized placeId="802556">Sandwich, Carroll, New Hampshire, United States</normalized>
+						<original>Sandwich, Carroll, New Hampshire</original>
+					</place>
+				</event>
+				<event type="Birth" scope="person" version="1174004693459" submitter="MMMM-MM8" modified="2007-03-15T18:24:53.459-06:00" modifiable="false" id="aWZzLWZ0LnAuTTk1WC1UNTU6NDAwMDA1TUcyWkl0VjE0S1ZXeVROMDAw" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original>2Nov1808</original>
+						<normalized>2 November 1808</normalized>
+						<astro>
+							<earliest>2381724</earliest>
+							<latest>2381724</latest>
+						</astro>
+					</date>
+					<place>
+						<normalized placeId="802556">Sandwich, Carroll, New Hampshire, United States</normalized>
+						<original>Sandwich, Carroll, New Hampshire</original>
+					</place>
+				</event>
+				<event type="Birth" scope="person" version="1174021986912" submitter="MMMM-MM8" modified="2007-03-15T23:13:06.912-06:00" modifiable="false" id="aWZzLWZ0LnAuOVhUMi1XODg6NDAwMDAxc2UyWkl0SUc0S1pkeE9OMDAw" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original> 2 NOV 1808</original>
+						<normalized>2 November 1808</normalized>
+						<astro>
+							<earliest>2381724</earliest>
+							<latest>2381724</latest>
+						</astro>
+					</date>
+					<place>
+						<normalized placeId="802556">Sandwich, Carroll, New Hampshire, United States</normalized>
+						<original>Sandwich, Carroll, New Hampshire, USA</original>
+					</place>
+				</event>
+				<event type="Birth" scope="person" version="1174037206968" submitter="MMMM-MM8" modified="2007-03-16T03:26:46.968-06:00" modifiable="false" id="aWZzLWZ0LnAuOTNSTS1US0w6NDAwMDA1TTMyWk10Vkc0S2NINXd3MDAw" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original>2Nov1808</original>
+						<normalized>2 November 1808</normalized>
+						<astro>
+							<earliest>2381724</earliest>
+							<latest>2381724</latest>
+						</astro>
+					</date>
+					<place>
+						<normalized placeId="802556">Sandwich, Carroll, New Hampshire, United States</normalized>
+						<original>Sandwich, Carroll, New Hampshire</original>
+					</place>
+				</event>
+				<event type="Birth" scope="person" version="1174048527201" submitter="MMMM-MM8" modified="2007-03-16T06:35:27.201-06:00" modifiable="false" id="aWZzLWZ0LnAuOTRaUy0yWjc6NDAwMDAxcEEyWkl0VjE0S2V5b3NCMDAw" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original>2 Nov 1808</original>
+						<normalized>2 November 1808</normalized>
+						<astro>
+							<earliest>2381724</earliest>
+							<latest>2381724</latest>
+						</astro>
+					</date>
+					<place>
+						<normalized placeId="802556">Sandwich, Carroll, New Hampshire, United States</normalized>
+						<original>Sandwich, Carroll, New Hampshire</original>
+					</place>
+				</event>
+				<event type="Birth" scope="person" version="1174133850442" submitter="MMMM-MM8" modified="2007-03-17T06:17:30.442-06:00" modifiable="false" id="aWZzLWZ0LnAuTTk1WC1UNTU6NDAwMDA1b2EyWk10Rlc0S3pKbjNrMDAw" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original>2Nov1808</original>
+						<normalized>2 November 1808</normalized>
+						<astro>
+							<earliest>2381724</earliest>
+							<latest>2381724</latest>
+						</astro>
+					</date>
+					<place>
+						<normalized placeId="802556">Sandwich, Carroll, New Hampshire, United States</normalized>
+						<original>Sandwich, Carroll, New Hampshire</original>
+					</place>
+				</event>
+				<event type="Birth" scope="person" version="1174133850442" submitter="MMMM-MM8" modified="2007-03-17T06:17:30.442-06:00" modifiable="false" id="aWZzLWZ0LnAuTTk1WC1UNTU6NDAwMDA1b2EyWk10Rlc0S3pKbjRaMDAw" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original>2Nov1808</original>
+						<normalized>2 November 1808</normalized>
+						<astro>
+							<earliest>2381724</earliest>
+							<latest>2381724</latest>
+						</astro>
+					</date>
+					<place>
+						<normalized placeId="802556">Sandwich, Carroll, New Hampshire, United States</normalized>
+						<original>Sandwich, Carroll, New Hampshire</original>
+					</place>
+				</event>
+				<event type="Birth" scope="person" version="1174297403280" submitter="MMMM-MM8" modified="2007-03-19T03:43:23.280-06:00" modifiable="false" id="aWZzLWZ0LnAuTTk1WC1UNTU6NDAwMDA3RHkyWk10VUc0TGFKTXVrMDAx" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original>2Nov1808</original>
+						<normalized>2 November 1808</normalized>
+						<astro>
+							<earliest>2381724</earliest>
+							<latest>2381724</latest>
+						</astro>
+					</date>
+					<place>
+						<normalized placeId="802556">Sandwich, Carroll, New Hampshire, United States</normalized>
+						<original>Sandwich, Carroll, New Hampshire</original>
+					</place>
+				</event>
+				<event type="Birth" scope="person" version="1174327659951" submitter="MMMM-MM8" modified="2007-03-19T12:07:39.951-06:00" modifiable="false" id="aWZzLWZ0LnAuOTRaUy0yWjc6NDAwMDAwNmQyWkl0U0c0TGhYM1JGMDAw" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original>2 Nov 1808</original>
+						<normalized>2 November 1808</normalized>
+						<astro>
+							<earliest>2381724</earliest>
+							<latest>2381724</latest>
+						</astro>
+					</date>
+					<place>
+						<normalized placeId="802556">Sandwich, Carroll, New Hampshire, United States</normalized>
+						<original>Sandwich, Carroll, New Hampshire</original>
+					</place>
+				</event>
+				<event type="Birth" scope="person" version="1174490776683" submitter="MMMM-MM8" modified="2007-03-21T09:26:16.683-06:00" modifiable="false" id="aWZzLWZ0LnAuOTNSTS1US0w6NDAwMDAwTHoyWkl0TGw0TUpRMmp3MDAw" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original>2Nov1808</original>
+						<normalized>2 November 1808</normalized>
+						<astro>
+							<earliest>2381724</earliest>
+							<latest>2381724</latest>
+						</astro>
+					</date>
+					<place>
+						<normalized placeId="802556">Sandwich, Carroll, New Hampshire, United States</normalized>
+						<original>Sandwich, Carroll, New Hampshire</original>
+					</place>
+				</event>
+				<event type="Birth" scope="person" version="1174510749400" submitter="MMMM-MM8" modified="2007-03-21T14:59:09.400-06:00" modifiable="false" id="aWZzLWZ0LnAuOTRaUy0yWjc6NDAwMDAxWDUyWkl0Rlc0TU9BbjFnMDAw" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original>2 Nov 1808</original>
+						<normalized>2 November 1808</normalized>
+						<astro>
+							<earliest>2381724</earliest>
+							<latest>2381724</latest>
+						</astro>
+					</date>
+					<place>
+						<normalized placeId="802556">Sandwich, Carroll, New Hampshire, United States</normalized>
+						<original>Sandwich, Carroll, New Hampshire</original>
+					</place>
+				</event>
+				<event type="Birth" scope="person" version="1174510749400" submitter="MMMM-MM8" modified="2007-03-21T14:59:09.400-06:00" modifiable="false" id="aWZzLWZ0LnAuOTRaUy0yWjc6NDAwMDAxWDUyWkl0Rlc0TU9BblVjMDAw" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original>2 Nov 1808</original>
+						<normalized>2 November 1808</normalized>
+						<astro>
+							<earliest>2381724</earliest>
+							<latest>2381724</latest>
+						</astro>
+					</date>
+					<place>
+						<normalized placeId="802556">Sandwich, Carroll, New Hampshire, United States</normalized>
+						<original>Sandwich, Carroll, New Hampshire</original>
+					</place>
+				</event>
+				<event type="Birth" scope="person" version="1174510749400" submitter="MMMM-MM8" modified="2007-03-21T14:59:09.400-06:00" modifiable="false" id="aWZzLWZ0LnAuOTRaUy0yWjc6NDAwMDAxWDUyWkl0Rlc0TU9BblpnMDAw" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original>2 Nov 1808</original>
+						<normalized>2 November 1808</normalized>
+						<astro>
+							<earliest>2381724</earliest>
+							<latest>2381724</latest>
+						</astro>
+					</date>
+					<place>
+						<normalized placeId="802556">Sandwich, Carroll, New Hampshire, United States</normalized>
+						<original>Sandwich, Carroll, New Hampshire</original>
+					</place>
+				</event>
+				<event type="Birth" scope="person" version="1174510749400" submitter="MMMM-MM8" modified="2007-03-21T14:59:09.400-06:00" modifiable="false" id="aWZzLWZ0LnAuOTRaUy0yWjc6NDAwMDAxWDUyWkl0Rlc0TU9BcUI4MDAx" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original>2 Nov 1808</original>
+						<normalized>2 November 1808</normalized>
+						<astro>
+							<earliest>2381724</earliest>
+							<latest>2381724</latest>
+						</astro>
+					</date>
+					<place>
+						<normalized placeId="802556">Sandwich, Carroll, New Hampshire, United States</normalized>
+						<original>Sandwich, Carroll, New Hampshire</original>
+					</place>
+				</event>
+				<event type="Birth" scope="person" version="1173103550034" submitter="MMMM-MM8" modified="2007-03-05T07:05:50.034-07:00" modifiable="false" id="aWZzLWZ0LnAuOVhUMi1XODg6NDAwMDA3dlYyWk10SUc0SDlmZVNzMDAw" disputing="false" contributor="MM7T-JRF">
+					<date>
+						<original> 2 NOV 1808</original>
+						<normalized>2 November 1808</normalized>
+						<astro>
+							<earliest>2381724</earliest>
+							<latest>2381724</latest>
+						</astro>
+					</date>
+					<place>
+						<normalized placeId="802556">Sandwich, Carroll, New Hampshire, United States</normalized>
+						<original>Sandwich, Carroll, New Hampshire, USA</original>
+					</place>
+				</event>
+				<event type="Birth" scope="person" version="1172309510809" submitter="MMMM-MMQ" modified="2007-02-24T02:31:50.809-07:00" modifiable="true" id="aWZzLWZ0LnAuTVc5Si1XSkc6NDAwMDAyaGkyWkl0RzE0RUJNWkZzMDAw" disputing="false" contributor="MM3T-K8D">
+					<date>
+						<original>2 Nov 1808</original>
+						<normalized>2 November 1808</normalized>
+						<astro>
+							<earliest>2381724</earliest>
+							<latest>2381724</latest>
+						</astro>
+					</date>
+					<place>
+						<original>Sandwich, NH</original>
+					</place>
+				</event>
+				<event type="Birth" scope="person" version="1172737479500" submitter="MMMM-MM8" modified="2007-03-01T01:24:39.500-07:00" modifiable="false" id="aWZzLWZ0LnAuTUtLWS1KV0Q6NDAwMDA1bTUyWkl0SDE0Rm1PcVI0MDAw" disputing="false" contributor="MMWG-V3Y">
+					<date>
+						<original>02 Nov 1808</original>
+						<normalized>2 November 1808</normalized>
+						<astro>
+							<earliest>2381724</earliest>
+							<latest>2381724</latest>
+						</astro>
+					</date>
+					<place>
+						<original>Sandwich, NH</original>
+					</place>
+				</event>
+				<event type="Birth" scope="person" version="1172796371203" submitter="MMMM-MM8" modified="2007-03-01T17:46:11.203-07:00" modifiable="false" id="aWZzLWZ0LnAuTUsyTi03Qzc6NDAwMDA1d2IyWk10SDE0RzBSVWo4MDAw" disputing="false" contributor="MMWG-V3Y">
+					<date>
+						<original>02 Nov 1808</original>
+						<normalized>2 November 1808</normalized>
+						<astro>
+							<earliest>2381724</earliest>
+							<latest>2381724</latest>
+						</astro>
+					</date>
+					<place>
+						<original>Sandwich, NH</original>
+					</place>
+				</event>
+				<event type="Other" title="Other" scope="person" version="1172675338923" submitter="MMMM-MM8" modified="2007-02-28T08:08:58.923-07:00" modifiable="false" id="aWZzLWZ0LnAuTUwzSi1TNlg6NDAwMDA3cGQyWk10SUc0RllfY3ljMDAw" disputing="false" contributor="MMWG-V3Y">
+					<date>
+						<original/>
+					</date>
+				</event>
+				<event type="Death" scope="person" version="1173193476898" submitter="MMMM-MM8" modified="2007-03-06T08:04:36.898-07:00" modifiable="false" id="aWZzLWZ0LnAuOTRaUy0yWjc6NDAwMDAzd3YyWkl0SUc0SFU3b0xSMDAw" disputing="false" contributor="MM38-KMV">
+					<date>
+						<original>23 Dec 1894</original>
+						<normalized>23 December 1894</normalized>
+						<astro>
+							<earliest>2413186</earliest>
+							<latest>2413186</latest>
+						</astro>
+					</date>
+					<place>
+						<normalized placeId="799545">Piermont, Grafton, New Hampshire, United States</normalized>
+						<original>Piermont, N.H.</original>
+					</place>
+				</event>
+				<event type="Death" scope="person" version="1174021986912" submitter="MMMM-MM8" modified="2007-03-15T23:13:06.912-06:00" modifiable="false" id="aWZzLWZ0LnAuOVhUMi1XODg6NDAwMDAxc2UyWkl0SUc0S1pkeE9jMDAw" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original>23 DEC 1894</original>
+						<normalized>23 December 1894</normalized>
+						<astro>
+							<earliest>2413186</earliest>
+							<latest>2413186</latest>
+						</astro>
+					</date>
+					<place>
+						<normalized placeId="799545">Piermont, Grafton, New Hampshire, United States</normalized>
+						<original>Piermont, Grafton, New Hampshire, USA</original>
+					</place>
+				</event>
+				<event type="Death" scope="person" version="1174510749400" submitter="MMMM-MM8" modified="2007-03-21T14:59:09.400-06:00" modifiable="false" id="aWZzLWZ0LnAuOTRaUy0yWjc6NDAwMDAxWDUyWkl0Rlc0TU9BblpnMDAy" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original>23 Dec 1894</original>
+						<normalized>23 December 1894</normalized>
+						<astro>
+							<earliest>2413186</earliest>
+							<latest>2413186</latest>
+						</astro>
+					</date>
+					<place>
+						<normalized placeId="799545">Piermont, Grafton, New Hampshire, United States</normalized>
+						<original>Piermont, N.H.</original>
+					</place>
+				</event>
+				<event type="Death" scope="person" version="1174510749400" submitter="MMMM-MM8" modified="2007-03-21T14:59:09.400-06:00" modifiable="false" id="aWZzLWZ0LnAuOTRaUy0yWjc6NDAwMDAxWDUyWkl0Rlc0TU9BcUJCMDAw" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original>23 Dec 1894</original>
+						<normalized>23 December 1894</normalized>
+						<astro>
+							<earliest>2413186</earliest>
+							<latest>2413186</latest>
+						</astro>
+					</date>
+					<place>
+						<normalized placeId="799545">Piermont, Grafton, New Hampshire, United States</normalized>
+						<original>Piermont, N.H.</original>
+					</place>
+				</event>
+				<event type="Death" scope="person" version="1220897348738" submitter="MMMM-MMQ" modified="2008-09-08T12:09:08.738-06:00" modifiable="true" id="aWZzLWZ0LnAuTVc5Si1XSkc6NDAwMDAyaGkyWkl0RzE0RUJNWkZ3MDAw" disputing="false" contributor="MM3T-K8D">
+					<date>
+						<original>23 Dec 1894</original>
+						<normalized>23 December 1894</normalized>
+						<astro>
+							<earliest>2413186</earliest>
+							<latest>2413186</latest>
+						</astro>
+					</date>
+					<place>
+						<normalized placeId="799545">Piermont, Grafton, New Hampshire, United States</normalized>
+						<original>Piermont, NH</original>
+					</place>
+				</event>
+				<event type="Death" scope="person" version="1173103550034" submitter="MMMM-MM8" modified="2007-03-05T07:05:50.034-07:00" modifiable="false" id="aWZzLWZ0LnAuOVhUMi1XODg6NDAwMDA3dlYyWk10SUc0SDlmZVQ4MDAw" disputing="false" contributor="MM7T-JRF">
+					<date>
+						<original>23 DEC 1894</original>
+						<normalized>23 December 1894</normalized>
+						<astro>
+							<earliest>2413186</earliest>
+							<latest>2413186</latest>
+						</astro>
+					</date>
+					<place>
+						<normalized placeId="799545">Piermont, Grafton, New Hampshire, United States</normalized>
+						<original>Piermont, Grafton, New Hampshire, USA</original>
+					</place>
+				</event>
+				<event type="Death" scope="person" version="1172178222946" submitter="MMMM-MM8" modified="2007-02-22T14:03:42.946-07:00" modifiable="false" id="aWZzLWZ0LnAuTTk1WC1UNTU6NDAwMDAyVWUyWk10RUc0RGg0R1lKMDAx" disputing="false" contributor="MMWG-V3Y">
+					<date>
+						<original>23Dec1894</original>
+						<normalized>23 December 1894</normalized>
+						<astro>
+							<earliest>2413186</earliest>
+							<latest>2413186</latest>
+						</astro>
+					</date>
+				</event>
+				<event type="Death" scope="person" version="1173061954804" submitter="MMMM-MM8" modified="2007-03-04T19:32:34.804-07:00" modifiable="false" id="aWZzLWZ0LnAuOTNSTS1US0w6NDAwMDAzOVgyWkl0SDE0R3prd1JaMDAw" disputing="false" contributor="MMWG-V3Y">
+					<date>
+						<original>23Dec1894</original>
+						<normalized>23 December 1894</normalized>
+						<astro>
+							<earliest>2413186</earliest>
+							<latest>2413186</latest>
+						</astro>
+					</date>
+				</event>
+				<event type="Death" scope="person" version="1173994209749" submitter="MMMM-MM8" modified="2007-03-15T15:30:09.749-06:00" modifiable="false" id="aWZzLWZ0LnAuTU43WS02TTM6NDAwMDAyWE0yWk10U2w0S1QyMFQwMDAz" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original/>
+					</date>
+				</event>
+				<event type="Death" scope="person" version="1174004693459" submitter="MMMM-MM8" modified="2007-03-15T18:24:53.459-06:00" modifiable="false" id="aWZzLWZ0LnAuTTk1WC1UNTU6NDAwMDA1TUcyWkl0VjE0S1ZXeVRKMDAx" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original/>
+					</date>
+				</event>
+				<event type="Death" scope="person" version="1174016843729" submitter="MMMM-MM8" modified="2007-03-15T21:47:23.729-06:00" modifiable="false" id="aWZzLWZ0LnAuTTk0Mi1OODY6NDAwMDA3UzcyWk10RVc0S1lRU2NaMDAz" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original/>
+					</date>
+				</event>
+				<event type="Death" scope="person" version="1174021986912" submitter="MMMM-MM8" modified="2007-03-15T23:13:06.912-06:00" modifiable="false" id="aWZzLWZ0LnAuOVhUMi1XODg6NDAwMDAxc2UyWkl0SUc0S1pkeE84MDAw" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original/>
+					</date>
+				</event>
+				<event type="Death" scope="person" version="1174030114587" submitter="MMMM-MM8" modified="2007-03-16T01:28:34.587-06:00" modifiable="false" id="aWZzLWZ0LnAuOU1MWC1WSDQ6NDAwMDAweFoyWk10UzE0S2Ffcm13MDAx" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original/>
+					</date>
+				</event>
+				<event type="Death" scope="person" version="1174037206968" submitter="MMMM-MM8" modified="2007-03-16T03:26:46.968-06:00" modifiable="false" id="aWZzLWZ0LnAuOTNSTS1US0w6NDAwMDA1TTMyWk10Vkc0S2NINXdvMDAx" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original/>
+					</date>
+				</event>
+				<event type="Death" scope="person" version="1174048527201" submitter="MMMM-MM8" modified="2007-03-16T06:35:27.201-06:00" modifiable="false" id="aWZzLWZ0LnAuOTRaUy0yWjc6NDAwMDAxcEEyWkl0VjE0S2V5b3M0MDAz" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original/>
+					</date>
+				</event>
+				<event type="Death" scope="person" version="1174133850442" submitter="MMMM-MM8" modified="2007-03-17T06:17:30.442-06:00" modifiable="false" id="aWZzLWZ0LnAuTTk1WC1UNTU6NDAwMDA1b2EyWk10Rlc0S3pKbjNWMDAy" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original/>
+					</date>
+				</event>
+				<event type="Death" scope="person" version="1174133850442" submitter="MMMM-MM8" modified="2007-03-17T06:17:30.442-06:00" modifiable="false" id="aWZzLWZ0LnAuTTk1WC1UNTU6NDAwMDA1b2EyWk10Rlc0S3pKbjRWMDAx" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original/>
+					</date>
+				</event>
+				<event type="Death" scope="person" version="1174186353742" submitter="MMMM-MM8" modified="2007-03-17T20:52:33.742-06:00" modifiable="false" id="aWZzLWZ0LnAuTVg3Sy0yVzU6NDAwMDAydHUyWk10RjE0TEFweDVrMDAz" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original/>
+					</date>
+				</event>
+				<event type="Death" scope="person" version="1174186353742" submitter="MMMM-MM8" modified="2007-03-17T20:52:33.742-06:00" modifiable="false" id="aWZzLWZ0LnAuTVg3Sy0yVzU6NDAwMDAydHUyWk10RjE0TEFweGZGMDAx" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original/>
+					</date>
+				</event>
+				<event type="Death" scope="person" version="1174213297148" submitter="MMMM-MM8" modified="2007-03-18T04:21:37.148-06:00" modifiable="false" id="aWZzLWZ0LnAuTTQ2NS1LNDY6NDAwMDAyTlUyWk10Skc0TEhHMzdSMDAz" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original/>
+					</date>
+				</event>
+				<event type="Marriage" scope="couple" version="1172538214834" submitter="MMMM-MM8" modified="2007-02-26T18:03:34.834-07:00" modifiable="false" id="Y2ZzLWZ0LnAuTVg3Sy0yVzV8ZnMtZnQucC5NWDdLLTI0Qzo0MDAwMDBfZjJaSXRGMTRGMnRKMVYwMDA=" disputing="false" contributor="MMWG-V3Y">
+					<date>
+						<original>       1828</original>
+						<normalized>1828</normalized>
+						<astro>
+							<earliest>2388723</earliest>
+							<latest>2389088</latest>
+						</astro>
+					</date>
+					<place>
+						<normalized placeId="799545">Piermont, Grafton, New Hampshire, United States</normalized>
+						<original>Piermont,Grafton,New Hampshire</original>
+					</place>
+					<spouse role="Woman" ref="KFB8-WLJ" tempId="tempSpouse"/>
+				</event>
+				<event type="Marriage" scope="couple" version="1173193476898" submitter="MMMM-MM8" modified="2007-03-06T08:04:36.898-07:00" modifiable="false" id="Y2ZzLWZ0LnAuOTRaUy0yWjd8ZnMtZnQucC45NFpTLTI4Rjo0MDAwMDN3djJaSXRJRzRIVTdvTFowMDA=" disputing="false" contributor="MMWG-V3Y">
+					<date>
+						<original>1828</original>
+						<normalized>1828</normalized>
+						<astro>
+							<earliest>2388723</earliest>
+							<latest>2389088</latest>
+						</astro>
+					</date>
+					<place>
+						<normalized placeId="799545">Piermont, Grafton, New Hampshire, United States</normalized>
+						<original>Piermont, N.H.</original>
+					</place>
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</event>
+				<event type="Marriage" scope="couple" version="1174186353742" submitter="MMMM-MM8" modified="2007-03-17T20:52:33.742-06:00" modifiable="false" id="Y2ZzLWZ0LnAuTVg3Sy0yVzV8ZnMtZnQucC5NWDdLLTI0Qzo0MDAwMDJ0dTJaTXRGMTRMQXB4NW8wMDE=" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original>       1828</original>
+						<normalized>1828</normalized>
+						<astro>
+							<earliest>2388723</earliest>
+							<latest>2389088</latest>
+						</astro>
+					</date>
+					<place>
+						<normalized placeId="799545">Piermont, Grafton, New Hampshire, United States</normalized>
+						<original>Piermont,Grafton,New Hampshire</original>
+					</place>
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</event>
+				<event type="Marriage" scope="couple" version="1174186353742" submitter="MMMM-MM8" modified="2007-03-17T20:52:33.742-06:00" modifiable="false" id="Y2ZzLWZ0LnAuTVg3Sy0yVzV8ZnMtZnQucC5NWDdLLTI0Qzo0MDAwMDJ0dTJaTXRGMTRMQXB4ZkowMDE=" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original>       1828</original>
+						<normalized>1828</normalized>
+						<astro>
+							<earliest>2388723</earliest>
+							<latest>2389088</latest>
+						</astro>
+					</date>
+					<place>
+						<normalized placeId="799545">Piermont, Grafton, New Hampshire, United States</normalized>
+						<original>Piermont,Grafton,New Hampshire</original>
+					</place>
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</event>
+				<event type="Marriage" scope="couple" version="1174510749400" submitter="MMMM-MM8" modified="2007-03-21T14:59:09.400-06:00" modifiable="false" id="Y2ZzLWZ0LnAuOTRaUy0yWjd8ZnMtZnQucC45NFpTLTI4Rjo0MDAwMDFYNTJaSXRGVzRNT0FuWmswMDE=" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original>1828</original>
+						<normalized>1828</normalized>
+						<astro>
+							<earliest>2388723</earliest>
+							<latest>2389088</latest>
+						</astro>
+					</date>
+					<place>
+						<normalized placeId="799545">Piermont, Grafton, New Hampshire, United States</normalized>
+						<original>Piermont, N.H.</original>
+					</place>
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</event>
+				<event type="Marriage" scope="couple" version="1174510749400" submitter="MMMM-MM8" modified="2007-03-21T14:59:09.400-06:00" modifiable="false" id="Y2ZzLWZ0LnAuOTRaUy0yWjd8ZnMtZnQucC45NFpTLTI4Rjo0MDAwMDFYNTJaSXRGVzRNT0FxQkIwMDI=" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original>1828</original>
+						<normalized>1828</normalized>
+						<astro>
+							<earliest>2388723</earliest>
+							<latest>2389088</latest>
+						</astro>
+					</date>
+					<place>
+						<normalized placeId="799545">Piermont, Grafton, New Hampshire, United States</normalized>
+						<original>Piermont, N.H.</original>
+					</place>
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</event>
+				<event type="Marriage" scope="couple" version="1172309510809" submitter="MMMM-MMQ" modified="2007-02-24T02:31:50.809-07:00" modifiable="true" id="Y2ZzLWZ0LnAuTVc5Si1XSkd8ZnMtZnQucC5NVzlKLVdWTTo0MDAwMDJoaTJaSXRHMTRFQk1aRmswMDA=" disputing="false" contributor="MM3T-K8D">
+					<date>
+						<original>1828</original>
+						<normalized>1828</normalized>
+						<astro>
+							<earliest>2388723</earliest>
+							<latest>2389088</latest>
+						</astro>
+					</date>
+					<place>
+						<normalized placeId="799545">Piermont, Grafton, New Hampshire, United States</normalized>
+						<original>Piermont, NH</original>
+					</place>
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</event>
+				<event type="Marriage" scope="couple" version="1172377654659" submitter="MMMM-MM8" modified="2007-02-24T21:27:34.659-07:00" modifiable="false" id="Y2ZzLWZ0LnAuTTNISy1UWFJ8ZnMtZnQucC5NM0hLLVRNRDo0MDAwMDVfSTJaSXRHVzRFUmF2ZE4wMDA=" disputing="false" contributor="MMWG-V3Y">
+					<date>
+						<original>1828</original>
+						<normalized>1828</normalized>
+						<astro>
+							<earliest>2388723</earliest>
+							<latest>2389088</latest>
+						</astro>
+					</date>
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</event>
+				<event type="Marriage" scope="couple" version="1172620954627" submitter="MMMM-MM8" modified="2007-02-27T17:02:34.627-07:00" modifiable="false" id="Y2ZzLWZ0LnAuTU43WS02TTN8ZnMtZnQucC5NTjdZLTZNTDo0MDAwMDFqMzJaSXRGbDRGTGJwM3cwMDA=" disputing="false" contributor="MMWG-V3Y">
+					<date>
+						<original>1829</original>
+						<normalized>1829</normalized>
+						<astro>
+							<earliest>2389089</earliest>
+							<latest>2389453</latest>
+						</astro>
+					</date>
+					<place>
+						<normalized placeId="2517">Essex, Massachusetts, United States</normalized>
+						<original>Essex Co., Mass.</original>
+					</place>
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</event>
+				<event type="Marriage" scope="couple" version="1172649246968" submitter="MMMM-MM8" modified="2007-02-28T00:54:06.968-07:00" modifiable="false" id="Y2ZzLWZ0LnAuTU42My1XNkp8ZnMtZnQucC5NTjYzLVdYOTo0MDAwMDRMZzJaTXRHMTRGU01XMFYwMDA=" disputing="false" contributor="MMWG-V3Y">
+					<date>
+						<original>       1829</original>
+						<normalized>1829</normalized>
+						<astro>
+							<earliest>2389089</earliest>
+							<latest>2389453</latest>
+						</astro>
+					</date>
+					<place>
+						<normalized placeId="555869">Essex, Essex, Massachusetts, United States</normalized>
+						<original>Essex,Massachusetts</original>
+					</place>
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</event>
+				<event type="Marriage" scope="couple" version="1172821340900" submitter="MMMM-MM8" modified="2007-03-02T00:42:20.900-07:00" modifiable="false" id="Y2ZzLWZ0LnAuTVAyRi1QTEh8ZnMtZnQucC5NUDJGLVBMUDo0MDAwMDBERzJaTXRIMTRHNk9UOFowMDA=" disputing="false" contributor="MMWG-V3Y">
+					<date>
+						<original>1829</original>
+						<normalized>1829</normalized>
+						<astro>
+							<earliest>2389089</earliest>
+							<latest>2389453</latest>
+						</astro>
+					</date>
+					<place>
+						<normalized placeId="2517">Essex, Massachusetts, United States</normalized>
+						<original>Essex Co., Massachusetts</original>
+					</place>
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</event>
+				<event type="Marriage" scope="couple" version="1216100478336" submitter="MMMM-MM8" modified="2008-07-14T23:41:18.336-06:00" modifiable="false" id="Y2ZzLWZ0LnAuOU1MWC1WSDR8ZnMtZnQucC5ORzFSLVk5WTo0MDAwMDU3NDJaSXRIVzRHbHJfYncwMDA=" disputing="false" contributor="MMWG-V3Y">
+					<date>
+						<original>1829</original>
+						<normalized>1829</normalized>
+						<astro>
+							<earliest>2389089</earliest>
+							<latest>2389453</latest>
+						</astro>
+					</date>
+					<place>
+						<normalized placeId="555869">Essex, Essex, Massachusetts, United States</normalized>
+						<original>Essex, Mass.</original>
+					</place>
+					<spouse role="Woman" ref="NG1R-Y9Y"/>
+				</event>
+				<event type="Marriage" scope="couple" version="1174194498812" submitter="MMMM-MM8" modified="2007-03-17T23:08:18.812-06:00" modifiable="false" id="Y2ZzLWZ0LnAuTVAyRi1QTEh8ZnMtZnQucC5NUDJGLVBMUDo0MDAwMDJ4aDJaSXRIMTRMQ21Ca0owMDE=" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original>1829</original>
+						<normalized>1829</normalized>
+						<astro>
+							<earliest>2389089</earliest>
+							<latest>2389453</latest>
+						</astro>
+					</date>
+					<place>
+						<normalized placeId="2517">Essex, Massachusetts, United States</normalized>
+						<original>Essex Co., Massachusetts</original>
+					</place>
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</event>
+				<event type="Marriage" scope="couple" version="1174194498812" submitter="MMMM-MM8" modified="2007-03-17T23:08:18.812-06:00" modifiable="false" id="Y2ZzLWZ0LnAuTVAyRi1QTEh8ZnMtZnQucC5NUDJGLVBMUDo0MDAwMDJ4aDJaSXRIMTRMQ21DcGcwMDE=" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original>1829</original>
+						<normalized>1829</normalized>
+						<astro>
+							<earliest>2389089</earliest>
+							<latest>2389453</latest>
+						</astro>
+					</date>
+					<place>
+						<normalized placeId="2517">Essex, Massachusetts, United States</normalized>
+						<original>Essex Co., Massachusetts</original>
+					</place>
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</event>
+				<event type="Marriage" scope="couple" version="1174348157707" submitter="MMMM-MM8" modified="2007-03-19T17:49:17.707-06:00" modifiable="false" id="Y2ZzLWZ0LnAuTU42My1XNkp8ZnMtZnQucC5NTjYzLVdYOTo0MDAwMDBQLTJaTXRNRzRMbVBxSnMwMDA=" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original>       1829</original>
+						<normalized>1829</normalized>
+						<astro>
+							<earliest>2389089</earliest>
+							<latest>2389453</latest>
+						</astro>
+					</date>
+					<place>
+						<normalized placeId="555869">Essex, Essex, Massachusetts, United States</normalized>
+						<original>Essex,Massachusetts</original>
+					</place>
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</event>
+				<event type="Marriage" scope="couple" version="1174348157707" submitter="MMMM-MM8" modified="2007-03-19T17:49:17.707-06:00" modifiable="false" id="Y2ZzLWZ0LnAuTU42My1XNkp8ZnMtZnQucC5NTjYzLVdYOTo0MDAwMDBQLTJaTXRNRzRMbVByR0YwMDE=" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original>       1829</original>
+						<normalized>1829</normalized>
+						<astro>
+							<earliest>2389089</earliest>
+							<latest>2389453</latest>
+						</astro>
+					</date>
+					<place>
+						<normalized placeId="555869">Essex, Essex, Massachusetts, United States</normalized>
+						<original>Essex,Massachusetts</original>
+					</place>
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</event>
+				<fact type="Exists" scope="person" version="1172309510809" submitter="MMMM-MMQ" modified="2007-02-24T02:31:50.809-07:00" modifiable="true" id="aWZzLWZ0LnAuTVc5Si1XSkc6NDAwMDAyaGkyWkl0RzE0RUJNWkVWMDAx" disputing="false" contributor="MM3T-K8D"/>
+				<fact type="Exists" scope="person" version="1172152583167" submitter="MMMM-MM8" modified="2007-02-22T06:56:23.167-07:00" modifiable="false" id="aWZzLWZ0LnAuTTk0Mi1OODY6NDAwMDAyaWoyWk10Rmw0RGF4M0dOMDAw" disputing="false" contributor="MMWG-V3Y"/>
+				<fact type="Exists" scope="person" version="1172178222946" submitter="MMMM-MM8" modified="2007-02-22T14:03:42.946-07:00" modifiable="false" id="aWZzLWZ0LnAuTTk1WC1UNTU6NDAwMDAyVWUyWk10RUc0RGg0R1kwMDAx" disputing="false" contributor="MMWG-V3Y"/>
+				<fact type="Exists" scope="person" version="1172239315104" submitter="MMMM-MM8" modified="2007-02-23T07:01:55.104-07:00" modifiable="false" id="aWZzLWZ0LnAuTTQ2NS1LNDY6NDAwMDA2Wi0yWk10R1c0RHZjV3FvMDAw" disputing="false" contributor="MMWG-V3Y"/>
+				<fact type="Exists" scope="person" version="1172377654659" submitter="MMMM-MM8" modified="2007-02-24T21:27:34.659-07:00" modifiable="false" id="aWZzLWZ0LnAuTTNISy1UWFI6NDAwMDA1X0kyWkl0R1c0RVJiTEcwMDAw" disputing="false" contributor="MMWG-V3Y"/>
+				<fact type="Exists" scope="person" version="1172538214834" submitter="MMMM-MM8" modified="2007-02-26T18:03:34.834-07:00" modifiable="false" id="aWZzLWZ0LnAuTVg3Sy0yVzU6NDAwMDAwX2YyWkl0RjE0RjJ0SjBWMDAw" disputing="false" contributor="MMWG-V3Y"/>
+				<fact type="Exists" scope="person" version="1172620954627" submitter="MMMM-MM8" modified="2007-02-27T17:02:34.627-07:00" modifiable="false" id="aWZzLWZ0LnAuTU43WS02TTM6NDAwMDAxajMyWkl0Rmw0RkxicDJCMDAw" disputing="false" contributor="MMWG-V3Y"/>
+				<fact type="Exists" scope="person" version="1176502400904" submitter="MMMM-MM8" modified="2007-04-13T16:13:20.904-06:00" modifiable="false" id="aWZzLWZ0LnAuTU45OC1XUlY6NDAwMDA0OVQyWk10RWw0RlF5UkZSMDAx" disputing="false" contributor="MMMM-MMZ"/>
+				<fact type="Exists" scope="person" version="1172647705321" submitter="MMMM-MM8" modified="2007-02-28T00:28:25.321-07:00" modifiable="false" id="aWZzLWZ0LnAuTTVHQy1IR0I6NDAwMDAyWWUyWkl0SEc0RlMwMTZCMDAw" disputing="false" contributor="MMWG-V3Y"/>
+				<fact type="Exists" scope="person" version="1172649246968" submitter="MMMM-MM8" modified="2007-02-28T00:54:06.968-07:00" modifiable="false" id="aWZzLWZ0LnAuTU42My1XNko6NDAwMDA0TGcyWk10RzE0RlNNVnpOMDAw" disputing="false" contributor="MMWG-V3Y"/>
+				<fact type="Exists" scope="person" version="1172675338923" submitter="MMMM-MM8" modified="2007-02-28T08:08:58.923-07:00" modifiable="false" id="aWZzLWZ0LnAuTUwzSi1TNlg6NDAwMDA3cGQyWk10SUc0RllfY3h3MDAx" disputing="false" contributor="MMWG-V3Y"/>
+				<fact type="Exists" scope="person" version="1175263551877" submitter="MMMM-MM8" modified="2007-03-30T08:05:51.877-06:00" modifiable="false" id="aWZzLWZ0LnAuTUpMQy1WVFQ6NDAwMDAxYnIyWkl0Rkc0Rllrd2xGMDAw" disputing="false" contributor="MMWG-V3Y"/>
+				<fact type="Exists" scope="person" version="1172704700133" submitter="MMMM-MM8" modified="2007-02-28T16:18:20.133-07:00" modifiable="false" id="aWZzLWZ0LnAuTUtaOC1HQjg6NDAwMDA0UXMyWkl0Rlc0RmVfZmxWMDAw" disputing="false" contributor="MMWG-V3Y"/>
+				<fact type="Exists" scope="person" version="1172731594644" submitter="MMMM-MM8" modified="2007-02-28T23:46:34.644-07:00" modifiable="false" id="aWZzLWZ0LnAuTVY1US1INTQ6NDAwMDA0T1IyWk10RjE0RmwwM3ZGMDAx" disputing="false" contributor="MMWG-V3Y"/>
+				<fact type="Exists" scope="person" version="1172821340900" submitter="MMMM-MM8" modified="2007-03-02T00:42:20.900-07:00" modifiable="false" id="aWZzLWZ0LnAuTVAyRi1QTEg6NDAwMDAwREcyWk10SDE0RzZPVDd3MDAx" disputing="false" contributor="MMWG-V3Y"/>
+				<fact type="Exists" scope="person" version="1172850021083" submitter="MMMM-MM8" modified="2007-03-02T08:40:21.083-07:00" modifiable="false" id="aWZzLWZ0LnAuTVQ2Qy1QSzI6NDAwMDAyczUyWk10SFc0R0NFNnFGMDAw" disputing="false" contributor="MMWG-V3Y"/>
+				<fact type="Exists" scope="person" version="1172953775418" submitter="MMMM-MM8" modified="2007-03-03T13:29:35.418-07:00" modifiable="false" id="aWZzLWZ0LnAuTUJOWC1LUzY6NDAwMDA2NGkyWkl0RzE0R195RlZnMDAw" disputing="false" contributor="MMWG-V3Y"/>
+				<fact type="Exists" scope="person" version="1172955706836" submitter="MMMM-MM8" modified="2007-03-03T14:01:46.836-07:00" modifiable="false" id="aWZzLWZ0LnAuTUJORi1LNFg6NDAwMDA2NGkyWkl0RzE0R2FRa0lSMDAw" disputing="false" contributor="MMWG-V3Y"/>
+				<fact type="Exists" scope="person" version="1172964761494" submitter="MMMM-MM8" modified="2007-03-03T16:32:41.494-07:00" modifiable="false" id="aWZzLWZ0LnAuTTE4Qy1TQjI6NDAwMDAwNloyWk10SDE0R2NfdjlaMDAw" disputing="false" contributor="MMWG-V3Y"/>
+				<fact type="Exists" scope="person" version="1172976418019" submitter="MMMM-MM8" modified="2007-03-03T19:46:58.019-07:00" modifiable="false" id="aWZzLWZ0LnAuTUJLTS1US0Q6NDAwMDA3S1UyWk10SUc0R2ZNbV9jMDAx" disputing="false" contributor="MMWG-V3Y"/>
+				<fact type="Lineage" scope="parent-child" version="1172309510809" submitter="MMMM-MMQ" modified="2007-02-24T02:31:50.809-07:00" modifiable="true" id="cGZzLWZ0LnAuTVc5Si1XSkd8ZnMtZnQucC5NVzlKLTdSOTo0MDAwMDJoaTJaSXRHMTRFQkx2VXMwMDA=" disputing="false" contributor="MM3T-K8D">
+					<child ref="K695-YSL"/>
+					<detail>Biological</detail>
+				</fact>
+				<fact type="Lineage" scope="parent-child" version="1172476839481" submitter="MMMM-MMQ" modified="2007-02-26T01:00:39.481-07:00" modifiable="true" id="cGZzLWZ0LnAuTUNDSC1RNFF8ZnMtZnQucC5NVzlKLVdKRzo0MDAwMDJoaTJaSXRHMTRFQk1aRkYwMDA=" disputing="false" contributor="MM3T-K8D">
+					<detail>Biological</detail>
+					<parent ref="KJ86-3VW"/>
+				</fact>
+				<fact type="Lineage" scope="parent-child" version="1172476839481" submitter="MMMM-MMQ" modified="2007-02-26T01:00:39.481-07:00" modifiable="true" id="cGZzLWZ0LnAuTUNDSC1RNFh8ZnMtZnQucC5NVzlKLVdKRzo0MDAwMDJoaTJaSXRHMTRFQk1aRmMwMDA=" disputing="false" contributor="MM3T-K8D">
+					<detail>Biological</detail>
+					<parent ref="KFY6-FC8"/>
+				</fact>
+				<fact type="Lineage" scope="parent-child" version="1172309510809" submitter="MMMM-MMQ" modified="2007-02-24T02:31:50.809-07:00" modifiable="true" id="cGZzLWZ0LnAuTVc5Si1XSkd8ZnMtZnQucC5NVzlKLVdLODo0MDAwMDJoaTJaSXRHMTRFQk1feHcwMDA=" disputing="false" contributor="MM3T-K8D">
+					<child ref="K82R-6SV"/>
+					<detail>Biological</detail>
+				</fact>
+				<fact type="Lineage" scope="parent-child" version="1172309510809" submitter="MMMM-MMQ" modified="2007-02-24T02:31:50.809-07:00" modifiable="true" id="cGZzLWZ0LnAuTVc5Si1XSkd8ZnMtZnQucC5NVzlKLVdLVjo0MDAwMDJoaTJaSXRHMTRFQk1hLTAwMDA=" disputing="false" contributor="MM3T-K8D">
+					<child ref="KC82-4GK"/>
+					<detail>Biological</detail>
+				</fact>
+				<fact type="Lineage" scope="parent-child" version="1172309510809" submitter="MMMM-MMQ" modified="2007-02-24T02:31:50.809-07:00" modifiable="true" id="cGZzLWZ0LnAuTVc5Si1XSkd8ZnMtZnQucC5NVzlKLVdWSjo0MDAwMDJoaTJaSXRHMTRFQk1fR2swMDA=" disputing="false" contributor="MM3T-K8D">
+					<child ref="KHKW-YRB"/>
+					<detail>Biological</detail>
+				</fact>
+				<fact type="Lineage" scope="parent-child" version="1172309510809" submitter="MMMM-MMQ" modified="2007-02-24T02:31:50.809-07:00" modifiable="true" id="cGZzLWZ0LnAuTVc5Si1XSkd8ZnMtZnQucC5NVzlKLVdWQzo0MDAwMDJoaTJaSXRHMTRFQk1fM1YwMDA=" disputing="false" contributor="MM3T-K8D">
+					<child ref="K83V-C1Q"/>
+					<detail>Biological</detail>
+				</fact>
+				<fact type="Lineage" scope="parent-child" version="1172309510809" submitter="MMMM-MMQ" modified="2007-02-24T02:31:50.809-07:00" modifiable="true" id="cGZzLWZ0LnAuTVc5Si1XSkd8ZnMtZnQucC5NVzlKLVdWUjo0MDAwMDJoaTJaSXRHMTRFQk1fVmswMDA=" disputing="false" contributor="MM3T-K8D">
+					<child ref="KJ48-2MP"/>
+					<detail>Biological</detail>
+				</fact>
+				<fact type="Lineage" scope="parent-child" version="1172309510809" submitter="MMMM-MMQ" modified="2007-02-24T02:31:50.809-07:00" modifiable="true" id="cGZzLWZ0LnAuTVc5Si1XSkd8ZnMtZnQucC5NVzlKLVdLNzo0MDAwMDJoaTJaSXRHMTRFQk1faTAwMDA=" disputing="false" contributor="MM3T-K8D">
+					<child ref="KCY4-1TG"/>
+					<detail>Biological</detail>
+				</fact>
+				<fact type="Lineage" scope="parent-child" version="1172309515980" submitter="MMMM-MMQ" modified="2007-02-24T02:31:55.980-07:00" modifiable="true" id="cGZzLWZ0LnAuTVc5Si1XSkd8ZnMtZnQucC5NVzlKLVcyNzo0MDAwMDJoaTJaSXRHMTRFQk1jX28wMDA=" disputing="false" contributor="MM3T-K8D">
+					<child ref="K8B8-GKV"/>
+					<detail>Biological</detail>
+				</fact>
+				<fact type="Lineage" scope="parent-child" version="1172309515980" submitter="MMMM-MMQ" modified="2007-02-24T02:31:55.980-07:00" modifiable="true" id="cGZzLWZ0LnAuTVc5Si1XSkd8ZnMtZnQucC5NVzlKLVdLVDo0MDAwMDJoaTJaSXRHMTRFQk1jOTgwMDA=" disputing="false" contributor="MM3T-K8D">
+					<child ref="K8TQ-2X4"/>
+					<detail>Biological</detail>
+				</fact>
+				<fact type="Lineage" scope="parent-child" version="1172309515980" submitter="MMMM-MMQ" modified="2007-02-24T02:31:55.980-07:00" modifiable="true" id="cGZzLWZ0LnAuTVc5Si1XSkd8ZnMtZnQucC5NVzlKLVcyNjo0MDAwMDJoaTJaSXRHMTRFQk1jeHMwMDA=" disputing="false" contributor="MM3T-K8D">
+					<child ref="K8PN-GRC"/>
+					<detail>Biological</detail>
+				</fact>
+				<fact type="Lineage" scope="parent-child" version="1172964761494" submitter="MMMM-MM8" modified="2007-03-03T16:32:41.494-07:00" modifiable="false" id="cGZzLWZ0LnAuTTE4Qy1TQjJ8ZnMtZnQucC5NTU45LUhLMzo0MDAwMDZUUDJaTXRFVzREWG5pLWMwMDA=" disputing="false" contributor="MMWG-V3Y">
+					<child ref="K8B8-GKV"/>
+					<detail>Biological</detail>
+				</fact>
+				<fact type="Lineage" scope="parent-child" version="1172976418019" submitter="MMMM-MM8" modified="2007-03-03T19:46:58.019-07:00" modifiable="false" id="cGZzLWZ0LnAuTUJLTS1US0R8ZnMtZnQucC5NTTdXLTQ1OTo0MDAwMDRaMjJaSXRGMTREZzhpZzgwMDA=" disputing="false" contributor="MMWG-V3Y">
+					<child ref="KZG9-WRC"/>
+					<detail>Biological</detail>
+				</fact>
+				<fact type="Lineage" scope="parent-child" version="1172239315104" submitter="MMMM-MM8" modified="2007-02-23T07:01:55.104-07:00" modifiable="false" id="cGZzLWZ0LnAuTTQ2NS1LNDZ8ZnMtZnQucC5NU1FKLUdCVDo0MDAwMDVBeTJaTXRFbDREaHVhUkowMDA=" disputing="false" contributor="MMWG-V3Y">
+					<child ref="K82R-6SV"/>
+					<detail>Biological</detail>
+				</fact>
+				<fact type="Lineage" scope="parent-child" version="1172239323662" submitter="MMMM-MM8" modified="2007-02-23T07:02:03.662-07:00" modifiable="false" id="cGZzLWZ0LnAuTTQ2NS1LNDZ8ZnMtZnQucC5NNDY1LUtDMzo0MDAwMDZaLTJaTXRHVzREdmNhZGMwMDA=" disputing="false" contributor="MMWG-V3Y">
+					<child ref="KZG9-WRC"/>
+					<detail>Biological</detail>
+				</fact>
+				<fact type="Lineage" scope="parent-child" version="1172239323662" submitter="MMMM-MM8" modified="2007-02-23T07:02:03.662-07:00" modifiable="false" id="cGZzLWZ0LnAuTTQ2NS1LNDZ8ZnMtZnQucC5NNDY1LUtDWTo0MDAwMDZaLTJaTXRHVzREdmNibVowMDA=" disputing="false" contributor="MMWG-V3Y">
+					<child ref="KHKW-YRB"/>
+					<detail>Biological</detail>
+				</fact>
+				<fact type="Lineage" scope="parent-child" version="1172239332273" submitter="MMMM-MM8" modified="2007-02-23T07:02:12.273-07:00" modifiable="false" id="cGZzLWZ0LnAuTTQ2NS1LNDZ8ZnMtZnQucC5NNDY1LUs4TTo0MDAwMDZaLTJaTXRHVzREdmNoMm8wMDA=" disputing="false" contributor="MMWG-V3Y">
+					<child ref="KJ48-2MP"/>
+					<detail>Biological</detail>
+				</fact>
+				<fact type="Lineage" scope="parent-child" version="1173254131443" submitter="MMMM-MM8" modified="2007-03-07T00:55:31.443-07:00" modifiable="false" id="cGZzLWZ0LnAuTUtDTi05MTJ8ZnMtZnQucC5NOVRMLVFMQzo0MDAwMDA5azJaTXRIMTRFMFBCNWswMDA=" disputing="false" contributor="MMWG-V3Y">
+					<child ref="K695-YSL"/>
+					<detail>Biological</detail>
+				</fact>
+				<fact type="Lineage" scope="parent-child" version="1172327581696" submitter="MMMM-MM8" modified="2007-02-24T07:33:01.696-07:00" modifiable="false" id="cGZzLWZ0LnAuTTk0Mi1OODZ8ZnMtZnQucC5NNEo4LVAxRzo0MDAwMDdoajJaSXRFVzRFRmZLODAwMDA=" disputing="false" contributor="MMWG-V3Y">
+					<child ref="K695-YSL"/>
+					<detail>Biological</detail>
+				</fact>
+				<fact type="Lineage" scope="parent-child" version="1172647705321" submitter="MMMM-MM8" modified="2007-02-28T00:28:25.321-07:00" modifiable="false" id="cGZzLWZ0LnAuTTVHQy1IR0J8ZnMtZnQucC5NNUdDLUhGQzo0MDAwMDJZZTJaSXRIRzRGUnpsbG8wMDA=" disputing="false" contributor="MMWG-V3Y">
+					<child ref="K8TQ-2X4"/>
+					<detail>Biological</detail>
+				</fact>
+				<fact type="Lineage" scope="parent-child" version="1172675338923" submitter="MMMM-MM8" modified="2007-02-28T08:08:58.923-07:00" modifiable="false" id="cGZzLWZ0LnAuTUwzSi1TNlh8ZnMtZnQucC5NTDNKLVNYSzo0MDAwMDdwZDJaTXRJRzRGWV9lM0YwMDA=" disputing="false" contributor="MMWG-V3Y">
+					<child ref="KZPM-CJT"/>
+					<detail>Biological</detail>
+				</fact>
+				<fact type="Lineage" scope="parent-child" version="1172704700133" submitter="MMMM-MM8" modified="2007-02-28T16:18:20.133-07:00" modifiable="false" id="cGZzLWZ0LnAuTUtaOC1HQjh8ZnMtZnQucC5NS1o4LUdZMTo0MDAwMDRRczJaSXRGVzRGZV9mVVIwMDA=" disputing="false" contributor="MMWG-V3Y">
+					<child ref="KCY4-1TG"/>
+					<detail>Biological</detail>
+				</fact>
+				<fact type="Lineage" scope="parent-child" version="1172731594644" submitter="MMMM-MM8" modified="2007-02-28T23:46:34.644-07:00" modifiable="false" id="cGZzLWZ0LnAuTVY1US1INTR8ZnMtZnQucC5NVjVRLUhQRzo0MDAwMDRPUjJaTXRGMTRGbDAzY1YwMDA=" disputing="false" contributor="MMWG-V3Y">
+					<child ref="KZPM-CJT"/>
+					<detail>Biological</detail>
+				</fact>
+				<fact type="Lineage" scope="parent-child" version="1172850021083" submitter="MMMM-MM8" modified="2007-03-02T08:40:21.083-07:00" modifiable="false" id="cGZzLWZ0LnAuTVQ2Qy1QSzJ8ZnMtZnQucC5NVDZDLVBEUjo0MDAwMDJzNTJaTXRIVzRHQ0R1SkIwMDA=" disputing="false" contributor="MMWG-V3Y">
+					<child ref="KCY4-1TG"/>
+					<detail>Biological</detail>
+				</fact>
+				<fact type="Lineage" scope="parent-child" version="1172953775418" submitter="MMMM-MM8" modified="2007-03-03T13:29:35.418-07:00" modifiable="false" id="cGZzLWZ0LnAuTUJOWC1LUzZ8ZnMtZnQucC5NQk5YLVZONDo0MDAwMDY0aTJaSXRHMTRHX3hqSGMwMDA=" disputing="false" contributor="MMWG-V3Y">
+					<child ref="K8PN-GRC"/>
+					<detail>Biological</detail>
+				</fact>
+				<fact type="Lineage" scope="parent-child" version="1172955706836" submitter="MMMM-MM8" modified="2007-03-03T14:01:46.836-07:00" modifiable="false" id="cGZzLWZ0LnAuTUJORi1LNFh8ZnMtZnQucC5NQk5GLUtTUTo0MDAwMDY0aTJaSXRHMTRHYVFhckYwMDA=" disputing="false" contributor="MMWG-V3Y">
+					<child ref="K82R-6SV"/>
+					<detail>Biological</detail>
+				</fact>
+				<fact type="Lineage" scope="parent-child" version="1173032404220" submitter="MMMM-MM8" modified="2007-03-04T11:20:04.220-07:00" modifiable="false" id="cGZzLWZ0LnAuOTlIRi05QjF8ZnMtZnQucC45OUhGLTlMVzo0MDAwMDdqNjJaSXRGbDRHc2hsVVowMDA=" disputing="false" contributor="MMWG-V3Y">
+					<child ref="KZG9-WRC"/>
+					<detail>Biological</detail>
+				</fact>
+				<fact type="Lineage" scope="parent-child" version="1173129225204" submitter="MMMM-MM8" modified="2007-03-05T14:13:45.204-07:00" modifiable="false" id="cGZzLWZ0LnAuOTdaRy1ESjJ8ZnMtZnQucC45N1pHLUQzWTo0MDAwMDctXzJaTXRLMTRIRW1yTUIwMDA=" disputing="false" contributor="MMWG-V3Y">
+					<child ref="KZPM-CJT"/>
+					<detail>Biological</detail>
+				</fact>
+				<fact type="Lineage" scope="parent-child" version="1173182103845" submitter="MMMM-MM8" modified="2007-03-06T04:55:03.845-07:00" modifiable="false" id="cGZzLWZ0LnAuTTQ2NS1LNDZ8ZnMtZnQucC45N1Y3LUhEUTo0MDAwMDNJNzJaSXRJVzRIUlBITzgwMDA=" disputing="false" contributor="MMWG-V3Y">
+					<child ref="KCY4-1TG"/>
+					<detail>Biological</detail>
+				</fact>
+				<fact type="Lineage" scope="parent-child" version="1173193505955" submitter="MMMM-MM8" modified="2007-03-06T08:05:05.955-07:00" modifiable="false" id="cGZzLWZ0LnAuOTRaUy0yMkt8ZnMtZnQucC45NFpTLTJaNzo0MDAwMDN3djJaSXRJRzRIVTdvS2swMDA=" disputing="false" contributor="MM38-KMV">
+					<detail>Biological</detail>
+					<parent ref="KFY6-FC8"/>
+				</fact>
+				<fact type="Lineage" scope="parent-child" version="1173193476898" submitter="MMMM-MM8" modified="2007-03-06T08:04:36.898-07:00" modifiable="false" id="cGZzLWZ0LnAuOTRaUy0yWjd8ZnMtZnQucC45NFpTLTJEVjo0MDAwMDN3djJaSXRJRzRIVTdxVnMwMDA=" disputing="false" contributor="MMWG-V3Y">
+					<child ref="KHKW-YRB"/>
+					<detail>Biological</detail>
+				</fact>
+				<fact type="Lineage" scope="parent-child" version="1173193476898" submitter="MMMM-MM8" modified="2007-03-06T08:04:36.898-07:00" modifiable="false" id="cGZzLWZ0LnAuOTRaUy0yWjd8ZnMtZnQucC45NFpTLTJEMzo0MDAwMDN3djJaSXRJRzRIVTdxMzQwMDA=" disputing="false" contributor="MMWG-V3Y">
+					<child ref="K83V-C1Q"/>
+					<detail>Biological</detail>
+				</fact>
+				<fact type="Lineage" scope="parent-child" version="1173193496727" submitter="MMMM-MM8" modified="2007-03-06T08:04:56.727-07:00" modifiable="false" id="cGZzLWZ0LnAuOTRaUy0yS1N8ZnMtZnQucC45NFpTLTJaNzo0MDAwMDN3djJaSXRJRzRIVTdvSncwMDA=" disputing="false" contributor="MM38-KMV">
+					<detail>Biological</detail>
+					<parent ref="KJ86-3VW"/>
+				</fact>
+				<fact type="Lineage" scope="parent-child" version="1173193487744" submitter="MMMM-MM8" modified="2007-03-06T08:04:47.744-07:00" modifiable="false" id="cGZzLWZ0LnAuOTRaUy0yWjd8ZnMtZnQucC45NFpTLTJYNTo0MDAwMDN3djJaSXRJRzRIVTgwVVYwMDA=" disputing="false" contributor="MMWG-V3Y">
+					<child ref="K82R-6SV"/>
+					<detail>Biological</detail>
+				</fact>
+				<fact type="Lineage" scope="parent-child" version="1173193487744" submitter="MMMM-MM8" modified="2007-03-06T08:04:47.744-07:00" modifiable="false" id="cGZzLWZ0LnAuOTRaUy0yWjd8ZnMtZnQucC45NFpTLTJGVzo0MDAwMDN3djJaSXRJRzRIVTgwdE4wMDA=" disputing="false" contributor="MMWG-V3Y">
+					<child ref="KC82-4GK"/>
+					<detail>Biological</detail>
+				</fact>
+				<fact type="Lineage" scope="parent-child" version="1173193487744" submitter="MMMM-MM8" modified="2007-03-06T08:04:47.744-07:00" modifiable="false" id="cGZzLWZ0LnAuOTRaUy0yWjd8ZnMtZnQucC45NFpTLTI2UDo0MDAwMDN3djJaSXRJRzRIVTd6Vk4wMDA=" disputing="false" contributor="MMWG-V3Y">
+					<child ref="K695-YSL"/>
+					<detail>Biological</detail>
+				</fact>
+				<fact type="Lineage" scope="parent-child" version="1173193487744" submitter="MMMM-MM8" modified="2007-03-06T08:04:47.744-07:00" modifiable="false" id="cGZzLWZ0LnAuOTRaUy0yWjd8ZnMtZnQucC45NFpTLTJOUzo0MDAwMDN3djJaSXRJRzRIVTgxa2MwMDA=" disputing="false" contributor="MMWG-V3Y">
+					<child ref="K8TQ-2X4"/>
+					<detail>Biological</detail>
+				</fact>
+				<fact type="Lineage" scope="parent-child" version="1173193487744" submitter="MMMM-MM8" modified="2007-03-06T08:04:47.744-07:00" modifiable="false" id="cGZzLWZ0LnAuOTRaUy0yWjd8ZnMtZnQucC45NFpTLTI2NDo0MDAwMDN3djJaSXRJRzRIVTd5Nm8wMDA=" disputing="false" contributor="MMWG-V3Y">
+					<child ref="KJ48-2MP"/>
+					<detail>Biological</detail>
+				</fact>
+				<fact type="Lineage" scope="parent-child" version="1173193487744" submitter="MMMM-MM8" modified="2007-03-06T08:04:47.744-07:00" modifiable="false" id="cGZzLWZ0LnAuOTRaUy0yWjd8ZnMtZnQucC45NFpTLTJYNjo0MDAwMDN3djJaSXRJRzRIVTgwQXMwMDA=" disputing="false" contributor="MMWG-V3Y">
+					<child ref="KCY4-1TG"/>
+					<detail>Biological</detail>
+				</fact>
+				<fact type="Lineage" scope="parent-child" version="1173193496727" submitter="MMMM-MM8" modified="2007-03-06T08:04:56.727-07:00" modifiable="false" id="cGZzLWZ0LnAuOTRaUy0yWjd8ZnMtZnQucC45NFpTLTJOVjo0MDAwMDN3djJaSXRJRzRIVTg3VjgwMDA=" disputing="false" contributor="MMWG-V3Y">
+					<child ref="K8B8-GKV"/>
+					<detail>Biological</detail>
+				</fact>
+				<fact type="Lineage" scope="parent-child" version="1173193496727" submitter="MMMM-MM8" modified="2007-03-06T08:04:56.727-07:00" modifiable="false" id="cGZzLWZ0LnAuOTRaUy0yWjd8ZnMtZnQucC45NFpTLTJKUTo0MDAwMDN3djJaSXRJRzRIVTg3dWcwMDA=" disputing="false" contributor="MMWG-V3Y">
+					<child ref="K8PN-GRC"/>
+					<detail>Biological</detail>
+				</fact>
+				<fact type="Lineage" scope="parent-child" version="1172737479500" submitter="MMMM-MM8" modified="2007-03-01T01:24:39.500-07:00" modifiable="false" id="cGZzLWZ0LnAuTUtLWS1KV0R8ZnMtZnQucC5NS0tZLU5CUDo0MDAwMDVtNTJaSXRIMTRGbU9kcm8wMDA=" disputing="false" contributor="MM36-NG3">
+					<child ref="KC82-4GK"/>
+					<detail>Biological</detail>
+				</fact>
+				<fact type="Lineage" scope="parent-child" version="1172796371203" submitter="MMMM-MM8" modified="2007-03-01T17:46:11.203-07:00" modifiable="false" id="cGZzLWZ0LnAuTUsyTi03Qzd8ZnMtZnQucC5NSzJOLTdNMjo0MDAwMDV3YjJaTXRIMTRHMFJDZ28wMDA=" disputing="false" contributor="MMWG-V3Y">
+					<child ref="KHKW-YRB"/>
+					<detail>Biological</detail>
+				</fact>
+				<fact type="Lineage" scope="parent-child" version="1173103550034" submitter="MMMM-MM8" modified="2007-03-05T07:05:50.034-07:00" modifiable="false" id="cGZzLWZ0LnAuOVhUMi1XOER8ZnMtZnQucC45WFQyLVc4ODo0MDAwMDd2VjJaTXRJRzRIOWZlUlYwMDA=" disputing="false" contributor="MM7T-JRF">
+					<detail>Biological</detail>
+					<parent ref="KJ86-3VW"/>
+				</fact>
+				<fact type="Lineage" scope="parent-child" version="1173103550034" submitter="MMMM-MM8" modified="2007-03-05T07:05:50.034-07:00" modifiable="false" id="cGZzLWZ0LnAuOVhUMi1XOFh8ZnMtZnQucC45WFQyLVc4ODo0MDAwMDd2VjJaTXRJRzRIOWZlU1YwMDA=" disputing="false" contributor="MM7T-JRF">
+					<detail>Biological</detail>
+					<parent ref="KFY6-FC8"/>
+				</fact>
+				<fact type="Lineage" scope="parent-child" version="1173255153567" submitter="MMMM-MM8" modified="2007-03-07T01:12:33.567-07:00" modifiable="false" id="cGZzLWZ0LnAuTUsyRC1LQkZ8ZnMtZnQucC5NSzJELUtaUjo0MDAwMDV3TzJaTXRHVzRIaG9IVlIwMDA=" disputing="false" contributor="MMWG-V3Y">
+					<child ref="KJ48-2MP"/>
+					<detail>Biological</detail>
+				</fact>
+				<ordinance type="Confirmation" temple="MANTI" scope="person" version="1174037206968" submitter="MMMM-MM8" modified="2007-03-16T03:26:46.968-06:00" modifiable="false" id="aWZzLWZ0LnAuOTNSTS1US0w6NDAwMDA1TTMyWk10Vkc0S2NINXhKMDAw" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original>19 Sep 1916</original>
+						<normalized>19 September 1916</normalized>
+						<astro>
+							<earliest>2421126</earliest>
+							<latest>2421126</latest>
+						</astro>
+					</date>
+					<official>true</official>
+				</ordinance>
+				<ordinance type="Confirmation" scope="person" version="1174004693459" submitter="MMMM-MM8" modified="2007-03-15T18:24:53.459-06:00" modifiable="false" id="aWZzLWZ0LnAuTTk1WC1UNTU6NDAwMDA1TUcyWkl0VjE0S1ZXeVVKMDAw" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original>19 Sep 1916</original>
+						<normalized>19 September 1916</normalized>
+						<astro>
+							<earliest>2421126</earliest>
+							<latest>2421126</latest>
+						</astro>
+					</date>
+					<official>true</official>
+				</ordinance>
+				<ordinance type="Confirmation" scope="person" version="1174048527201" submitter="MMMM-MM8" modified="2007-03-16T06:35:27.201-06:00" modifiable="false" id="aWZzLWZ0LnAuOTRaUy0yWjc6NDAwMDAxcEEyWkl0VjE0S2V5b3NjMDAw" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original>19 Sep 1916</original>
+						<normalized>19 September 1916</normalized>
+						<astro>
+							<earliest>2421126</earliest>
+							<latest>2421126</latest>
+						</astro>
+					</date>
+					<official>true</official>
+				</ordinance>
+				<ordinance type="Confirmation" temple="ALBER" scope="person" version="1174030114587" submitter="MMMM-MM8" modified="2007-03-16T01:28:34.587-06:00" modifiable="false" id="aWZzLWZ0LnAuOU1MWC1WSDQ6NDAwMDAweFoyWk10UzE0S2Ffcm5OMDAw" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original>21 Mar 1933</original>
+						<normalized>21 March 1933</normalized>
+						<astro>
+							<earliest>2427153</earliest>
+							<latest>2427153</latest>
+						</astro>
+					</date>
+					<official>true</official>
+				</ordinance>
+				<ordinance type="Confirmation" scope="person" version="1173994209749" submitter="MMMM-MM8" modified="2007-03-15T15:30:09.749-06:00" modifiable="false" id="aWZzLWZ0LnAuTU43WS02TTM6NDAwMDAyWE0yWk10U2w0S1QyMFRWMDAw" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original>21 Mar 1933</original>
+						<normalized>21 March 1933</normalized>
+						<astro>
+							<earliest>2427153</earliest>
+							<latest>2427153</latest>
+						</astro>
+					</date>
+					<official>true</official>
+				</ordinance>
+				<ordinance type="Confirmation" scope="person" version="1172309510809" submitter="MMMM-MMQ" modified="2007-02-24T02:31:50.809-07:00" modifiable="false" id="aWZzLWZ0LnAuTVc5Si1XSkc6NDAwMDAyaGkyWkl0RzE0RUJNWkc0MDAx" disputing="false" contributor="MMMM-MMQ">
+					<date>
+						<original/>
+					</date>
+					<official>false</official>
+				</ordinance>
+				<ordinance type="Baptism" temple="MANTI" scope="person" version="1174490776683" submitter="MMMM-MM8" modified="2007-03-21T09:26:16.683-06:00" modifiable="false" id="aWZzLWZ0LnAuOTNSTS1US0w6NDAwMDAwTHoyWkl0TGw0TUpRMms4MDAw" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original>19 Sep 1916</original>
+						<normalized>19 September 1916</normalized>
+						<astro>
+							<earliest>2421126</earliest>
+							<latest>2421126</latest>
+						</astro>
+					</date>
+					<official>true</official>
+				</ordinance>
+				<ordinance type="Baptism" scope="person" version="1174133850442" submitter="MMMM-MM8" modified="2007-03-17T06:17:30.442-06:00" modifiable="false" id="aWZzLWZ0LnAuTTk1WC1UNTU6NDAwMDA1b2EyWk10Rlc0S3pKbjN3MDAw" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original>19 Sep 1916</original>
+						<normalized>19 September 1916</normalized>
+						<astro>
+							<earliest>2421126</earliest>
+							<latest>2421126</latest>
+						</astro>
+					</date>
+					<official>true</official>
+				</ordinance>
+				<ordinance type="Baptism" scope="person" version="1174510749400" submitter="MMMM-MM8" modified="2007-03-21T14:59:09.400-06:00" modifiable="false" id="aWZzLWZ0LnAuOTRaUy0yWjc6NDAwMDAxWDUyWkl0Rlc0TU9BblU0MDAw" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original>19 Sep 1916</original>
+						<normalized>19 September 1916</normalized>
+						<astro>
+							<earliest>2421126</earliest>
+							<latest>2421126</latest>
+						</astro>
+					</date>
+					<official>true</official>
+				</ordinance>
+				<ordinance type="Baptism" temple="ALBER" scope="person" version="1174465220133" submitter="MMMM-MM8" modified="2007-03-21T02:20:20.133-06:00" modifiable="false" id="aWZzLWZ0LnAuOU1MWC1WSDQ6NDAwMDA0bnQyWkl0S0c0TURLNnJrMDAw" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original>21 Mar 1933</original>
+						<normalized>21 March 1933</normalized>
+						<astro>
+							<earliest>2427153</earliest>
+							<latest>2427153</latest>
+						</astro>
+					</date>
+					<official>true</official>
+				</ordinance>
+				<ordinance type="Baptism" scope="person" version="1174312545420" submitter="MMMM-MM8" modified="2007-03-19T07:55:45.420-06:00" modifiable="false" id="aWZzLWZ0LnAuTU43WS02TTM6NDAwMDAxU3MyWk10Rmw0TGR2VUQ0MDAw" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original>21 Mar 1933</original>
+						<normalized>21 March 1933</normalized>
+						<astro>
+							<earliest>2427153</earliest>
+							<latest>2427153</latest>
+						</astro>
+					</date>
+					<official>true</official>
+				</ordinance>
+				<ordinance type="Baptism" scope="person" version="1172309510809" submitter="MMMM-MMQ" modified="2007-02-24T02:31:50.809-07:00" modifiable="true" id="aWZzLWZ0LnAuTVc5Si1XSkc6NDAwMDAyaGkyWkl0RzE0RUJNWkZ3MDAx" disputing="false" contributor="MM3T-K8D">
+					<date>
+						<original>19 Sep 1916</original>
+						<normalized>19 September 1916</normalized>
+						<astro>
+							<earliest>2421126</earliest>
+							<latest>2421126</latest>
+						</astro>
+					</date>
+					<official>false</official>
+				</ordinance>
+				<ordinance type="Endowment" temple="MANTI" scope="person" version="1174133850442" submitter="MMMM-MM8" modified="2007-03-17T06:17:30.442-06:00" modifiable="false" id="aWZzLWZ0LnAuTTk1WC1UNTU6NDAwMDA1b2EyWk10Rlc0S3pKbjRnMDAw" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original>28 Sep 1916</original>
+						<normalized>28 September 1916</normalized>
+						<astro>
+							<earliest>2421135</earliest>
+							<latest>2421135</latest>
+						</astro>
+					</date>
+					<official>true</official>
+				</ordinance>
+				<ordinance type="Endowment" scope="person" version="1174510749400" submitter="MMMM-MM8" modified="2007-03-21T14:59:09.400-06:00" modifiable="false" id="aWZzLWZ0LnAuOTRaUy0yWjc6NDAwMDAxWDUyWkl0Rlc0TU9BblYwMDAw" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original>28 Sep 1916</original>
+						<normalized>28 September 1916</normalized>
+						<astro>
+							<earliest>2421135</earliest>
+							<latest>2421135</latest>
+						</astro>
+					</date>
+					<official>true</official>
+				</ordinance>
+				<ordinance type="Endowment" temple="SLAKE" scope="person" version="1174312545420" submitter="MMMM-MM8" modified="2007-03-19T07:55:45.420-06:00" modifiable="false" id="aWZzLWZ0LnAuTU43WS02TTM6NDAwMDAxU3MyWk10Rmw0TGR2VUVGMDAw" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original>01 May 1933</original>
+						<normalized>1 May 1933</normalized>
+						<astro>
+							<earliest>2427194</earliest>
+							<latest>2427194</latest>
+						</astro>
+					</date>
+					<official>true</official>
+				</ordinance>
+				<ordinance type="Endowment" scope="person" version="1174194498812" submitter="MMMM-MM8" modified="2007-03-17T23:08:18.812-06:00" modifiable="false" id="aWZzLWZ0LnAuTVAyRi1QTEg6NDAwMDAyeGgyWkl0SDE0TENtQmlrMDAw" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original>01 May 1933</original>
+						<normalized>1 May 1933</normalized>
+						<astro>
+							<earliest>2427194</earliest>
+							<latest>2427194</latest>
+						</astro>
+					</date>
+					<official>true</official>
+				</ordinance>
+				<ordinance type="Endowment" scope="person" version="1172309510809" submitter="MMMM-MMQ" modified="2007-02-24T02:31:50.809-07:00" modifiable="true" id="aWZzLWZ0LnAuTVc5Si1XSkc6NDAwMDAyaGkyWkl0RzE0RUJNWkcwMDAw" disputing="false" contributor="MM3T-K8D">
+					<date>
+						<original>28 Sep 1916</original>
+						<normalized>28 September 1916</normalized>
+						<astro>
+							<earliest>2421135</earliest>
+							<latest>2421135</latest>
+						</astro>
+					</date>
+					<official>false</official>
+				</ordinance>
+				<ordinance type="Initiatory" temple="MANTI" scope="person" version="1174297403280" submitter="MMMM-MM8" modified="2007-03-19T03:43:23.280-06:00" modifiable="false" id="aWZzLWZ0LnAuTTk1WC1UNTU6NDAwMDA3RHkyWk10VUc0TGFKTXZCMDAw" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original>28 Sep 1916</original>
+						<normalized>28 September 1916</normalized>
+						<astro>
+							<earliest>2421135</earliest>
+							<latest>2421135</latest>
+						</astro>
+					</date>
+					<official>true</official>
+				</ordinance>
+				<ordinance type="Initiatory" scope="person" version="1174327659951" submitter="MMMM-MM8" modified="2007-03-19T12:07:39.951-06:00" modifiable="false" id="aWZzLWZ0LnAuOTRaUy0yWjc6NDAwMDAwNmQyWkl0U0c0TGhYM1JWMDAw" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original>28 Sep 1916</original>
+						<normalized>28 September 1916</normalized>
+						<astro>
+							<earliest>2421135</earliest>
+							<latest>2421135</latest>
+						</astro>
+					</date>
+					<official>true</official>
+				</ordinance>
+				<ordinance type="Initiatory" temple="SLAKE" scope="person" version="1174288137545" submitter="MMMM-MM8" modified="2007-03-19T01:08:57.545-06:00" modifiable="false" id="aWZzLWZ0LnAuTU43WS02TTM6NDAwMDA0N28yWkl0VDE0TFo2ekxCMDAw" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original>01 May 1933</original>
+						<normalized>1 May 1933</normalized>
+						<astro>
+							<earliest>2427194</earliest>
+							<latest>2427194</latest>
+						</astro>
+					</date>
+					<official>true</official>
+				</ordinance>
+				<ordinance type="Initiatory" scope="person" version="1174295432717" submitter="MMMM-MM8" modified="2007-03-19T03:10:32.717-06:00" modifiable="false" id="aWZzLWZ0LnAuTVAyRi1QTEg6NDAwMDAzLTgyWkl0V0c0TF9xSWFaMDAw" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original>01 May 1933</original>
+						<normalized>1 May 1933</normalized>
+						<astro>
+							<earliest>2427194</earliest>
+							<latest>2427194</latest>
+						</astro>
+					</date>
+					<official>true</official>
+				</ordinance>
+				<ordinance type="Initiatory" scope="person" version="1172309510809" submitter="MMMM-MMQ" modified="2007-02-24T02:31:50.809-07:00" modifiable="false" id="aWZzLWZ0LnAuTVc5Si1XSkc6NDAwMDAyaGkyWkl0RzE0RUJNWkc4MDAw" disputing="false" contributor="MMMM-MMQ">
+					<date>
+						<original/>
+					</date>
+					<official>false</official>
+				</ordinance>
+				<ordinance type="Sealing to Spouse" temple="SLAKE" scope="couple" version="1174194498812" submitter="MMMM-MM8" modified="2007-03-17T23:08:18.812-06:00" modifiable="false" id="Y2ZzLWZ0LnAuTVAyRi1QTEh8ZnMtZnQucC5NUDJGLVBMUDo0MDAwMDJ4aDJaSXRIMTRMQ21DcU4wMDA=" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original>09 Jun 1933</original>
+						<normalized>9 June 1933</normalized>
+						<astro>
+							<earliest>2427233</earliest>
+							<latest>2427233</latest>
+						</astro>
+					</date>
+					<official>true</official>
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</ordinance>
+				<ordinance type="Sealing to Spouse" temple="SLAKE" scope="couple" version="1174348157707" submitter="MMMM-MM8" modified="2007-03-19T17:49:17.707-06:00" modifiable="false" id="Y2ZzLWZ0LnAuTU42My1XNkp8ZnMtZnQucC5NTjYzLVdYOTo0MDAwMDBQLTJaTXRNRzRMbVByR3cwMDA=" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original>09 Jun 1933</original>
+						<normalized>9 June 1933</normalized>
+						<astro>
+							<earliest>2427233</earliest>
+							<latest>2427233</latest>
+						</astro>
+					</date>
+					<official>true</official>
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</ordinance>
+				<ordinance type="Sealing to Spouse" scope="couple" version="1178898624516" submitter="MMMM-MM8" modified="2007-05-11T09:50:24.516-06:00" modifiable="false" id="Y2ZzLWZ0LnAuTTk0Mi1OODZ8ZnMtZnQucC5NNEo4LVAxMzo0MDAwMDVlMjJaTXRGbDRLejJNZGMwMDA=" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original>09 Jun 1933</original>
+						<normalized>9 June 1933</normalized>
+						<astro>
+							<earliest>2427233</earliest>
+							<latest>2427233</latest>
+						</astro>
+					</date>
+					<official>true</official>
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</ordinance>
+				<ordinance type="Sealing to Spouse" scope="couple" version="1178856577128" submitter="MMMM-MM8" modified="2007-05-10T22:09:37.128-06:00" modifiable="false" id="Y2ZzLWZ0LnAuTTQ2NS1LNDZ8ZnMtZnQucC5NNDY1LUtIVzo0MDAwMDJOVTJaTXRKRzRMSEcyOHcwMDA=" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original>09 Jun 1933</original>
+						<normalized>9 June 1933</normalized>
+						<astro>
+							<earliest>2427233</earliest>
+							<latest>2427233</latest>
+						</astro>
+					</date>
+					<official>true</official>
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</ordinance>
+				<ordinance type="Sealing to Spouse" scope="couple" version="1178938125827" submitter="MMMM-MM8" modified="2007-05-11T20:48:45.827-06:00" modifiable="false" id="Y2ZzLWZ0LnAuTUwzSi1TNlh8ZnMtZnQucC5NTDNKLVNYMzo0MDAwMDUxUzJaSXRJRzRMTTA1dXMwMDA=" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original>09 Jun 1933</original>
+						<normalized>9 June 1933</normalized>
+						<astro>
+							<earliest>2427233</earliest>
+							<latest>2427233</latest>
+						</astro>
+					</date>
+					<official>true</official>
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</ordinance>
+				<ordinance type="Sealing to Spouse" temple="SLAKE" scope="couple" version="1174186353742" submitter="MMMM-MM8" modified="2007-03-17T20:52:33.742-06:00" modifiable="false" id="Y2ZzLWZ0LnAuTVg3Sy0yVzV8ZnMtZnQucC5NWDdLLTI0Qzo0MDAwMDJ0dTJaTXRGMTRMQXB4ZzQwMDA=" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original>25 Oct 1956</original>
+						<normalized>25 October 1956</normalized>
+						<astro>
+							<earliest>2435772</earliest>
+							<latest>2435772</latest>
+						</astro>
+					</date>
+					<official>true</official>
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</ordinance>
+				<ordinance type="Sealing to Spouse" temple="SLAKE" scope="couple" version="1174510749400" submitter="MMMM-MM8" modified="2007-03-21T14:59:09.400-06:00" modifiable="false" id="Y2ZzLWZ0LnAuOTRaUy0yWjd8ZnMtZnQucC45NFpTLTI4Rjo0MDAwMDFYNTJaSXRGVzRNT0FxQ0owMDA=" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original>25 Oct 1956</original>
+						<normalized>25 October 1956</normalized>
+						<astro>
+							<earliest>2435772</earliest>
+							<latest>2435772</latest>
+						</astro>
+					</date>
+					<official>true</official>
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</ordinance>
+				<ordinance type="Sealing to Spouse" temple="SLAKE" scope="couple" version="1172309510809" submitter="MMMM-MMQ" modified="2007-02-24T02:31:50.809-07:00" modifiable="true" id="Y2ZzLWZ0LnAuTVc5Si1XSkd8ZnMtZnQucC5NVzlKLVdWTTo0MDAwMDJoaTJaSXRHMTRFQk1aRzQwMDA=" disputing="false" contributor="MM3T-K8D">
+					<date>
+						<original>25 Oct 1956</original>
+						<normalized>25 October 1956</normalized>
+						<astro>
+							<earliest>2435772</earliest>
+							<latest>2435772</latest>
+						</astro>
+					</date>
+					<official>false</official>
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</ordinance>
+				<ordinance type="Sealing to Parents" temple="JRIVE" scope="parent-child" version="1174021986912" submitter="MMMM-MM8" modified="2007-03-15T23:13:06.912-06:00" modifiable="false" id="c2ZzLWZ0LnAuOVhUMi1XOER8ZnMtZnQucC45WFQyLVc4WHxmcy1mdC5wLjlYVDItVzg4OjQwMDAwMXNlMlpJdElHNEtaZHhQRjAwMA==" disputing="false" contributor="MMMM-MM8">
+					<date>
+						<original>28 Sep 2005</original>
+						<normalized>28 September 2005</normalized>
+						<astro>
+							<earliest>2453642</earliest>
+							<latest>2453642</latest>
+						</astro>
+					</date>
+					<official>true</official>
+					<parent role="Father" ref="KJ86-3VW"/>
+					<parent role="Mother" ref="KFY6-FC8"/>
+				</ordinance>
+				<relationship scope="parent-child" version="1174016843729" submitter="MMMM-MM8" modified="2007-03-15T21:47:23.729-06:00" modifiable="false" id="cGZzLWZ0LnAuTTk0Mi1OODZ8ZnMtZnQucC5NNEo4LVAxRzo0MDAwMDdTNzJaTXRFVzRLWVFTY3MwMDA=" disputing="false" contributor="MMMM-MM8">
+					<child ref="K695-YSL"/>
+				</relationship>
+				<relationship scope="parent-child" version="1174021986912" submitter="MMMM-MM8" modified="2007-03-15T23:13:06.912-06:00" modifiable="false" id="cGZzLWZ0LnAuOVhUMi1XOER8ZnMtZnQucC45WFQyLVc4ODo0MDAwMDFzZTJaSXRJRzRLWmR4T2cwMDE=" disputing="false" contributor="MMMM-MM8">
+					<parent ref="KJ86-3VW"/>
+				</relationship>
+				<relationship scope="parent-child" version="1174021986912" submitter="MMMM-MM8" modified="2007-03-15T23:13:06.912-06:00" modifiable="false" id="cGZzLWZ0LnAuOVhUMi1XOFh8ZnMtZnQucC45WFQyLVc4ODo0MDAwMDFzZTJaSXRJRzRLWmR4T2swMDE=" disputing="false" contributor="MMMM-MM8">
+					<parent ref="KFY6-FC8"/>
+				</relationship>
+				<relationship scope="parent-child" version="1174048527985" submitter="MMMM-MM8" modified="2007-03-16T06:35:27.985-06:00" modifiable="false" id="cGZzLWZ0LnAuOTRaUy0yWjd8ZnMtZnQucC45NFpTLTJYNjo0MDAwMDFwQTJaSXRWMTRLZXlwZkIwMDE=" disputing="false" contributor="MMMM-MM8">
+					<child ref="KCY4-1TG"/>
+				</relationship>
+				<relationship scope="parent-child" version="1174048528128" submitter="MMMM-MM8" modified="2007-03-16T06:35:28.128-06:00" modifiable="false" id="cGZzLWZ0LnAuOTRaUy0yWjd8ZnMtZnQucC45NFpTLTJYNTo0MDAwMDFwQTJaSXRWMTRLZXlwcFYwMDE=" disputing="false" contributor="MMMM-MM8">
+					<child ref="K82R-6SV"/>
+				</relationship>
+				<relationship scope="parent-child" version="1174213297148" submitter="MMMM-MM8" modified="2007-03-18T04:21:37.148-06:00" modifiable="false" id="cGZzLWZ0LnAuTTQ2NS1LNDZ8ZnMtZnQucC5NNDY1LUtDMzo0MDAwMDJOVTJaTXRKRzRMSEczN3MwMDE=" disputing="false" contributor="MMMM-MM8">
+					<child ref="KZG9-WRC"/>
+				</relationship>
+				<relationship scope="parent-child" version="1174213297148" submitter="MMMM-MM8" modified="2007-03-18T04:21:37.148-06:00" modifiable="false" id="cGZzLWZ0LnAuTTQ2NS1LNDZ8ZnMtZnQucC5NNDY1LUtDWTo0MDAwMDJOVTJaTXRKRzRMSEc0X1owMDE=" disputing="false" contributor="MMMM-MM8">
+					<child ref="KHKW-YRB"/>
+				</relationship>
+				<relationship scope="parent-child" version="1174213302864" submitter="MMMM-MM8" modified="2007-03-18T04:21:42.864-06:00" modifiable="false" id="cGZzLWZ0LnAuTTQ2NS1LNDZ8ZnMtZnQucC5NNDY1LUs4TTo0MDAwMDJOVTJaTXRKRzRMSEc2eFYwMDA=" disputing="false" contributor="MMMM-MM8">
+					<child ref="KJ48-2MP"/>
+				</relationship>
+				<relationship scope="parent-child" version="1174233157590" submitter="MMMM-MM8" modified="2007-03-18T09:52:37.590-06:00" modifiable="false" id="cGZzLWZ0LnAuTUwzSi1TNlh8ZnMtZnQucC5NTDNKLVNYSzo0MDAwMDUxUzJaSXRJRzRMTTA2UU4wMDI=" disputing="false" contributor="MMMM-MM8">
+					<child ref="KZPM-CJT"/>
+				</relationship>
+				<relationship scope="parent-child" version="1174327660578" submitter="MMMM-MM8" modified="2007-03-19T12:07:40.578-06:00" modifiable="false" id="cGZzLWZ0LnAuOTRaUy0yWjd8ZnMtZnQucC45NFpTLTJYNjo0MDAwMDA2ZDJaSXRTRzRMaFg0NU4wMDI=" disputing="false" contributor="MMMM-MM8">
+					<child ref="KCY4-1TG"/>
+				</relationship>
+				<relationship scope="parent-child" version="1174327660772" submitter="MMMM-MM8" modified="2007-03-19T12:07:40.772-06:00" modifiable="false" id="cGZzLWZ0LnAuOTRaUy0yWjd8ZnMtZnQucC45NFpTLTJYNTo0MDAwMDA2ZDJaSXRTRzRMaFg0SHMwMDI=" disputing="false" contributor="MMMM-MM8">
+					<child ref="K82R-6SV"/>
+				</relationship>
+				<relationship scope="parent-child" version="1174332770211" submitter="MMMM-MM8" modified="2007-03-19T13:32:50.211-06:00" modifiable="false" id="cGZzLWZ0LnAuTTQ2NS1LNDZ8ZnMtZnQucC45N1Y3LUhEUTo0MDAwMDNFUDJaTXRJVzRMaWszcTAwMDE=" disputing="false" contributor="MMMM-MM8">
+					<child ref="KCY4-1TG"/>
+				</relationship>
+				<relationship scope="parent-child" version="1174418281492" submitter="MMMM-MM8" modified="2007-03-20T13:18:01.492-06:00" modifiable="false" id="cGZzLWZ0LnAuTTQ2NS1LNDZ8ZnMtZnQucC5NU1FKLUdCVDo0MDAwMDFtQzJaSXRMRzRNMzhzV3cwMDA=" disputing="false" contributor="MMMM-MM8">
+					<child ref="K82R-6SV"/>
+				</relationship>
+				<relationship scope="parent-child" version="1174510749400" submitter="MMMM-MM8" modified="2007-03-21T14:59:09.400-06:00" modifiable="false" id="cGZzLWZ0LnAuOTRaUy0yWjd8ZnMtZnQucC45NFpTLTJEVjo0MDAwMDFYNTJaSXRGVzRNT0FyRzAwMDI=" disputing="false" contributor="MMMM-MM8">
+					<child ref="KHKW-YRB"/>
+				</relationship>
+				<relationship scope="parent-child" version="1174510749400" submitter="MMMM-MM8" modified="2007-03-21T14:59:09.400-06:00" modifiable="false" id="cGZzLWZ0LnAuOTRaUy0yWjd8ZnMtZnQucC45NFpTLTJEMzo0MDAwMDFYNTJaSXRGVzRNT0Fxd2swMDA=" disputing="false" contributor="MMMM-MM8">
+					<child ref="K83V-C1Q"/>
+				</relationship>
+				<relationship scope="parent-child" version="1174510756756" submitter="MMMM-MM8" modified="2007-03-21T14:59:16.756-06:00" modifiable="false" id="cGZzLWZ0LnAuOTRaUy0yWjd8ZnMtZnQucC45NFpTLTJYNTo0MDAwMDFYNTJaSXRGVzRNT0F2RncwMDE=" disputing="false" contributor="MMMM-MM8">
+					<child ref="K82R-6SV"/>
+				</relationship>
+				<relationship scope="parent-child" version="1174510756756" submitter="MMMM-MM8" modified="2007-03-21T14:59:16.756-06:00" modifiable="false" id="cGZzLWZ0LnAuOTRaUy0yWjd8ZnMtZnQucC45NFpTLTJYNTo0MDAwMDFYNTJaSXRGVzRNT0F2R3cwMDE=" disputing="false" contributor="MMMM-MM8">
+					<child ref="K82R-6SV"/>
+				</relationship>
+				<relationship scope="parent-child" version="1174510756756" submitter="MMMM-MM8" modified="2007-03-21T14:59:16.756-06:00" modifiable="false" id="cGZzLWZ0LnAuOTRaUy0yWjd8ZnMtZnQucC45NFpTLTJYNTo0MDAwMDFYNTJaSXRGVzRNT0F2SVYwMDE=" disputing="false" contributor="MMMM-MM8">
+					<child ref="K82R-6SV"/>
+				</relationship>
+				<relationship scope="parent-child" version="1174510756756" submitter="MMMM-MM8" modified="2007-03-21T14:59:16.756-06:00" modifiable="false" id="cGZzLWZ0LnAuOTRaUy0yWjd8ZnMtZnQucC45NFpTLTJGVzo0MDAwMDFYNTJaSXRGVzRNT0F2a3cwMDA=" disputing="false" contributor="MMMM-MM8">
+					<child ref="KC82-4GK"/>
+				</relationship>
+				<relationship scope="parent-child" version="1174510756756" submitter="MMMM-MM8" modified="2007-03-21T14:59:16.756-06:00" modifiable="false" id="cGZzLWZ0LnAuOTRaUy0yWjd8ZnMtZnQucC45NFpTLTI2UDo0MDAwMDFYNTJaSXRGVzRNT0F1NWMwMDA=" disputing="false" contributor="MMMM-MM8">
+					<child ref="K695-YSL"/>
+				</relationship>
+				<relationship scope="couple" version="1172309510809" submitter="MMMM-MMQ" modified="2007-02-24T02:31:50.809-07:00" modifiable="true" id="Y2ZzLWZ0LnAuTVc5Si1XSkd8ZnMtZnQucC5NVzlKLVdWTTo0MDAwMDJoaTJaSXRHMTRFQk1aRXcwMDA=" disputing="false" contributor="MM3T-K8D">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+				<relationship scope="couple" version="1172964761494" submitter="MMMM-MM8" modified="2007-03-03T16:32:41.494-07:00" modifiable="false" id="Y2ZzLWZ0LnAuTTE4Qy1TQjJ8ZnMtZnQucC5NTU45LUhLTDo0MDAwMDZUUDJaTXRFVzREWG5rREYwMDA=" disputing="false" contributor="MMWG-V3Y">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+				<relationship scope="couple" version="1172327581696" submitter="MMMM-MM8" modified="2007-02-24T07:33:01.696-07:00" modifiable="false" id="Y2ZzLWZ0LnAuTTk0Mi1OODZ8ZnMtZnQucC5NNEo4LVAxMzo0MDAwMDJpajJaTXRGbDREYXgzR3MwMDA=" disputing="false" contributor="MMWG-V3Y">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+				<relationship scope="couple" version="1172976418019" submitter="MMMM-MM8" modified="2007-03-03T19:46:58.019-07:00" modifiable="false" id="Y2ZzLWZ0LnAuTUJLTS1US0R8ZnMtZnQucC5NTTdXLTQ1Njo0MDAwMDRaMjJaSXRGMTREZzhqMDQwMDA=" disputing="false" contributor="MMWG-V3Y">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+				<relationship scope="couple" version="1172239323662" submitter="MMMM-MM8" modified="2007-02-23T07:02:03.662-07:00" modifiable="false" id="Y2ZzLWZ0LnAuTTQ2NS1LNDZ8ZnMtZnQucC5NNDY1LUtIVzo0MDAwMDZaLTJaTXRHVzREdmNXcncwMDA=" disputing="false" contributor="MMWG-V3Y">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+				<relationship scope="couple" version="1172377654659" submitter="MMMM-MM8" modified="2007-02-24T21:27:34.659-07:00" modifiable="false" id="Y2ZzLWZ0LnAuTTNISy1UWFJ8ZnMtZnQucC5NM0hLLVRNRDo0MDAwMDVfSTJaSXRHVzRFUmF2Y3MwMDA=" disputing="false" contributor="MMWG-V3Y">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+				<relationship scope="couple" version="1172538214834" submitter="MMMM-MM8" modified="2007-02-26T18:03:34.834-07:00" modifiable="false" id="Y2ZzLWZ0LnAuTVg3Sy0yVzV8ZnMtZnQucC5NWDdLLTI0Qzo0MDAwMDBfZjJaSXRGMTRGMnRKMU4wMDA=" disputing="false" contributor="MMWG-V3Y">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+				<relationship scope="couple" version="1172620954627" submitter="MMMM-MM8" modified="2007-02-27T17:02:34.627-07:00" modifiable="false" id="Y2ZzLWZ0LnAuTU43WS02TTN8ZnMtZnQucC5NTjdZLTZNTDo0MDAwMDFqMzJaSXRGbDRGTGJwM2swMDA=" disputing="false" contributor="MMWG-V3Y">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+				<relationship scope="couple" version="1176502400904" submitter="MMMM-MM8" modified="2007-04-13T16:13:20.904-06:00" modifiable="false" id="Y2ZzLWZ0LnAuTU45OC1XUlZ8ZnMtZnQucC5NTjk4LVdSUzo0MDAwMDQ5VDJaTXRFbDRGUXlRclowMDA=" disputing="false" contributor="MMMM-MMZ">
+					<spouse role="Woman" ref="MN98-WRS"/>
+				</relationship>
+				<relationship scope="couple" version="1172647718894" submitter="MMMM-MM8" modified="2007-02-28T00:28:38.894-07:00" modifiable="false" id="Y2ZzLWZ0LnAuTTVHQy1IR0J8ZnMtZnQucC5NNUdDLUhCRzo0MDAwMDJZZTJaSXRIRzRGUzAxNzAwMDA=" disputing="false" contributor="MMWG-V3Y">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+				<relationship scope="couple" version="1172649246968" submitter="MMMM-MM8" modified="2007-02-28T00:54:06.968-07:00" modifiable="false" id="Y2ZzLWZ0LnAuTU42My1XNkp8ZnMtZnQucC5NTjYzLVdYOTo0MDAwMDRMZzJaTXRHMTRGU01XME4wMDA=" disputing="false" contributor="MMWG-V3Y">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+				<relationship scope="couple" version="1172675338923" submitter="MMMM-MM8" modified="2007-02-28T08:08:58.923-07:00" modifiable="false" id="Y2ZzLWZ0LnAuTUwzSi1TNlh8ZnMtZnQucC5NTDNKLVNYMzo0MDAwMDdwZDJaTXRJRzRGWV9jeVowMDA=" disputing="false" contributor="MMWG-V3Y">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+				<relationship scope="couple" version="1175263551877" submitter="MMMM-MM8" modified="2007-03-30T08:05:51.877-06:00" modifiable="false" id="Y2ZzLWZ0LnAuTUpMQy1WVFR8ZnMtZnQucC5NWVRQLTZHNjo0MDAwMDFicjJaSXRGRzRGWWt3bVIwMDA=" disputing="false" contributor="MMWG-V3Y">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+				<relationship scope="couple" version="1172704700133" submitter="MMMM-MM8" modified="2007-02-28T16:18:20.133-07:00" modifiable="false" id="Y2ZzLWZ0LnAuTUtaOC1HQjh8ZnMtZnQucC5NS1o4LUdCNTo0MDAwMDRRczJaSXRGVzRGZV9mbTgwMDA=" disputing="false" contributor="MMWG-V3Y">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+				<relationship scope="couple" version="1172731594644" submitter="MMMM-MM8" modified="2007-02-28T23:46:34.644-07:00" modifiable="false" id="Y2ZzLWZ0LnAuTVY1US1INTR8ZnMtZnQucC5NVjVRLUg1NTo0MDAwMDRPUjJaTXRGMTRGbDAzdmcwMDA=" disputing="false" contributor="MMWG-V3Y">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+				<relationship scope="couple" version="1172821340900" submitter="MMMM-MM8" modified="2007-03-02T00:42:20.900-07:00" modifiable="false" id="Y2ZzLWZ0LnAuTVAyRi1QTEh8ZnMtZnQucC5NUDJGLVBMUDo0MDAwMDBERzJaTXRIMTRHNk9UOFYwMDA=" disputing="false" contributor="MMWG-V3Y">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+				<relationship scope="couple" version="1172850027719" submitter="MMMM-MM8" modified="2007-03-02T08:40:27.719-07:00" modifiable="false" id="Y2ZzLWZ0LnAuTVQ2Qy1QSzJ8ZnMtZnQucC5NVDZDLVBQUDo0MDAwMDJzNTJaTXRIVzRHQ0U2cjgwMDA=" disputing="false" contributor="MMWG-V3Y">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+				<relationship scope="couple" version="1172953798645" submitter="MMMM-MM8" modified="2007-03-03T13:29:58.645-07:00" modifiable="false" id="Y2ZzLWZ0LnAuTUJOWC1LUzZ8ZnMtZnQucC5NQk5YLUs2ODo0MDAwMDY0aTJaSXRHMTRHX3lGWTAwMDA=" disputing="false" contributor="MMWG-V3Y">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+				<relationship scope="couple" version="1172955719770" submitter="MMMM-MM8" modified="2007-03-03T14:01:59.770-07:00" modifiable="false" id="Y2ZzLWZ0LnAuTUJORi1LNFh8ZnMtZnQucC5NQk5GLUtEWDo0MDAwMDY0aTJaSXRHMTRHYVFrSlIwMDA=" disputing="false" contributor="MMWG-V3Y">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+				<relationship scope="couple" version="1173032435588" submitter="MMMM-MM8" modified="2007-03-04T11:20:35.588-07:00" modifiable="false" id="Y2ZzLWZ0LnAuOTlIRi05QjF8ZnMtZnQucC45OUhGLVNaRDo0MDAwMDdqNjJaSXRGbDRHc2k1VVYwMDA=" disputing="false" contributor="MMWG-V3Y">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+				<relationship scope="couple" version="1175263551877" submitter="MMMM-MM8" modified="2007-03-30T08:05:51.877-06:00" modifiable="false" id="Y2ZzLWZ0LnAuOTNNMi05OTh8ZnMtZnQucC45M00yLU00RDo0MDAwMDI2eTJaSXRIMTRHdnl6T3MwMDA=" disputing="false" contributor="MMWG-V3Y">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+				<relationship scope="couple" version="1173129246984" submitter="MMMM-MM8" modified="2007-03-05T14:14:06.984-07:00" modifiable="false" id="Y2ZzLWZ0LnAuOTdaRy1ESjJ8ZnMtZnQucC45N1pHLURCODo0MDAwMDctXzJaTXRLMTRIRW5PY0owMDA=" disputing="false" contributor="MMWG-V3Y">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+				<relationship scope="couple" version="1173193476898" submitter="MMMM-MM8" modified="2007-03-06T08:04:36.898-07:00" modifiable="false" id="Y2ZzLWZ0LnAuOTRaUy0yWjd8ZnMtZnQucC45NFpTLTI4Rjo0MDAwMDN3djJaSXRJRzRIVTdvTDgwMDA=" disputing="false" contributor="MM38-KMV">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+				<relationship scope="couple" version="1173193476898" submitter="MMMM-MM8" modified="2007-03-06T08:04:36.898-07:00" modifiable="false" id="Y2ZzLWZ0LnAuOTRaUy0yWjd8ZnMtZnQucC45NFpTLTI4Rjo0MDAwMDN3djJaSXRJRzRIVTdwYWcwMDA=" disputing="false" contributor="MMWG-V3Y">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+				<relationship scope="couple" version="1173254140374" submitter="MMMM-MM8" modified="2007-03-07T00:55:40.374-07:00" modifiable="false" id="Y2ZzLWZ0LnAuTUtDTi05MTJ8ZnMtZnQucC5NS0NOLVNNTTo0MDAwMDRKazJaSXRFVzRIaF9PVk4wMDA=" disputing="false" contributor="MMWG-V3Y">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+				<relationship scope="couple" version="1174016843729" submitter="MMMM-MM8" modified="2007-03-15T21:47:23.729-06:00" modifiable="false" id="Y2ZzLWZ0LnAuTTk0Mi1OODZ8ZnMtZnQucC5NNEo4LVAxMzo0MDAwMDdTNzJaTXRFVzRLWVFTY2cwMDE=" disputing="false" contributor="MMMM-MM8">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+				<relationship scope="couple" version="1174132637240" submitter="MMMM-MM8" modified="2007-03-17T05:57:17.240-06:00" modifiable="false" id="Y2ZzLWZ0LnAuTTk0Mi1OODZ8ZnMtZnQucC5NNEo4LVAxMzo0MDAwMDVlMjJaTXRGbDRLejJNY3cwMDA=" disputing="false" contributor="MMMM-MM8">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+				<relationship scope="couple" version="1174186353742" submitter="MMMM-MM8" modified="2007-03-17T20:52:33.742-06:00" modifiable="false" id="Y2ZzLWZ0LnAuTVg3Sy0yVzV8ZnMtZnQucC5NWDdLLTI0Qzo0MDAwMDJ0dTJaTXRGMTRMQXB4NXMwMDE=" disputing="false" contributor="MMMM-MM8">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+				<relationship scope="couple" version="1174186353742" submitter="MMMM-MM8" modified="2007-03-17T20:52:33.742-06:00" modifiable="false" id="Y2ZzLWZ0LnAuTVg3Sy0yVzV8ZnMtZnQucC5NWDdLLTI0Qzo0MDAwMDJ0dTJaTXRGMTRMQXB4Zk4wMDE=" disputing="false" contributor="MMMM-MM8">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+				<relationship scope="couple" version="1174194498812" submitter="MMMM-MM8" modified="2007-03-17T23:08:18.812-06:00" modifiable="false" id="Y2ZzLWZ0LnAuTVAyRi1QTEh8ZnMtZnQucC5NUDJGLVBMUDo0MDAwMDJ4aDJaSXRIMTRMQ21CaVYwMDU=" disputing="false" contributor="MMMM-MM8">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+				<relationship scope="couple" version="1174194498812" submitter="MMMM-MM8" modified="2007-03-17T23:08:18.812-06:00" modifiable="false" id="Y2ZzLWZ0LnAuTVAyRi1QTEh8ZnMtZnQucC5NUDJGLVBMUDo0MDAwMDJ4aDJaSXRIMTRMQ21Ca04wMDE=" disputing="false" contributor="MMMM-MM8">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+				<relationship scope="couple" version="1174194498812" submitter="MMMM-MM8" modified="2007-03-17T23:08:18.812-06:00" modifiable="false" id="Y2ZzLWZ0LnAuTVAyRi1QTEh8ZnMtZnQucC5NUDJGLVBMUDo0MDAwMDJ4aDJaSXRIMTRMQ21DcGswMDE=" disputing="false" contributor="MMMM-MM8">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+				<relationship scope="couple" version="1174213297148" submitter="MMMM-MM8" modified="2007-03-18T04:21:37.148-06:00" modifiable="false" id="Y2ZzLWZ0LnAuTTQ2NS1LNDZ8ZnMtZnQucC5NNDY1LUtIVzo0MDAwMDJOVTJaTXRKRzRMSEcyOFIwMDE=" disputing="false" contributor="MMMM-MM8">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+				<relationship scope="couple" version="1174213297148" submitter="MMMM-MM8" modified="2007-03-18T04:21:37.148-06:00" modifiable="false" id="Y2ZzLWZ0LnAuTTQ2NS1LNDZ8ZnMtZnQucC5NNDY1LUtIVzo0MDAwMDJOVTJaTXRKRzRMSEczN2cwMDA=" disputing="false" contributor="MMMM-MM8">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+				<relationship scope="couple" version="1174213297148" submitter="MMMM-MM8" modified="2007-03-18T04:21:37.148-06:00" modifiable="false" id="Y2ZzLWZ0LnAuTTQ2NS1LNDZ8ZnMtZnQucC5NNDY1LUtIVzo0MDAwMDJOVTJaTXRKRzRMSEc0X0YwMDE=" disputing="false" contributor="MMMM-MM8">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+				<relationship scope="couple" version="1174213302864" submitter="MMMM-MM8" modified="2007-03-18T04:21:42.864-06:00" modifiable="false" id="Y2ZzLWZ0LnAuTTQ2NS1LNDZ8ZnMtZnQucC5NNDY1LUtIVzo0MDAwMDJOVTJaTXRKRzRMSEc2eEYwMDA=" disputing="false" contributor="MMMM-MM8">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+				<relationship scope="couple" version="1174233157590" submitter="MMMM-MM8" modified="2007-03-18T09:52:37.590-06:00" modifiable="false" id="Y2ZzLWZ0LnAuTUwzSi1TNlh8ZnMtZnQucC5NTDNKLVNYMzo0MDAwMDUxUzJaSXRJRzRMTTA1dVIwMDM=" disputing="false" contributor="MMMM-MM8">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+				<relationship scope="couple" version="1174233157590" submitter="MMMM-MM8" modified="2007-03-18T09:52:37.590-06:00" modifiable="false" id="Y2ZzLWZ0LnAuTUwzSi1TNlh8ZnMtZnQucC5NTDNKLVNYMzo0MDAwMDUxUzJaSXRJRzRMTTA2UUIwMDE=" disputing="false" contributor="MMMM-MM8">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+				<relationship scope="couple" version="1174295432717" submitter="MMMM-MM8" modified="2007-03-19T03:10:32.717-06:00" modifiable="false" id="Y2ZzLWZ0LnAuTVAyRi1QTEh8ZnMtZnQucC5NUDJGLVBMUDo0MDAwMDMtODJaSXRXRzRMX3FJYTAwMDM=" disputing="false" contributor="MMMM-MM8">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+				<relationship scope="couple" version="1174332770211" submitter="MMMM-MM8" modified="2007-03-19T13:32:50.211-06:00" modifiable="false" id="Y2ZzLWZ0LnAuTTQ2NS1LNDZ8ZnMtZnQucC5NNDY1LUtIVzo0MDAwMDNFUDJaTXRJVzRMaWszcGcwMDE=" disputing="false" contributor="MMMM-MM8">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+				<relationship scope="couple" version="1174348157707" submitter="MMMM-MM8" modified="2007-03-19T17:49:17.707-06:00" modifiable="false" id="Y2ZzLWZ0LnAuTU42My1XNkp8ZnMtZnQucC5NTjYzLVdYOTo0MDAwMDBQLTJaTXRNRzRMbVBxSncwMDA=" disputing="false" contributor="MMMM-MM8">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+				<relationship scope="couple" version="1174348157707" submitter="MMMM-MM8" modified="2007-03-19T17:49:17.707-06:00" modifiable="false" id="Y2ZzLWZ0LnAuTU42My1XNkp8ZnMtZnQucC5NTjYzLVdYOTo0MDAwMDBQLTJaTXRNRzRMbVByR0owMDE=" disputing="false" contributor="MMMM-MM8">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+				<relationship scope="couple" version="1174418281492" submitter="MMMM-MM8" modified="2007-03-20T13:18:01.492-06:00" modifiable="false" id="Y2ZzLWZ0LnAuTTQ2NS1LNDZ8ZnMtZnQucC5NNDY1LUtIVzo0MDAwMDFtQzJaSXRMRzRNMzhzV1owMDA=" disputing="false" contributor="MMMM-MM8">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+				<relationship scope="couple" version="1174510749400" submitter="MMMM-MM8" modified="2007-03-21T14:59:09.400-06:00" modifiable="false" id="Y2ZzLWZ0LnAuOTRaUy0yWjd8ZnMtZnQucC45NFpTLTI4Rjo0MDAwMDFYNTJaSXRGVzRNT0FuWm8wMDE=" disputing="false" contributor="MMMM-MM8">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+				<relationship scope="couple" version="1174510749400" submitter="MMMM-MM8" modified="2007-03-21T14:59:09.400-06:00" modifiable="false" id="Y2ZzLWZ0LnAuOTRaUy0yWjd8ZnMtZnQucC45NFpTLTI4Rjo0MDAwMDFYNTJaSXRGVzRNT0FxQkYwMDE=" disputing="false" contributor="MMMM-MM8">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+				<relationship scope="couple" version="1174510749400" submitter="MMMM-MM8" modified="2007-03-21T14:59:09.400-06:00" modifiable="false" id="Y2ZzLWZ0LnAuOTRaUy0yWjd8ZnMtZnQucC45NFpTLTI4Rjo0MDAwMDFYNTJaSXRGVzRNT0Fxd1YwMDA=" disputing="false" contributor="MMMM-MM8">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+				<relationship scope="couple" version="1174510749400" submitter="MMMM-MM8" modified="2007-03-21T14:59:09.400-06:00" modifiable="false" id="Y2ZzLWZ0LnAuOTRaUy0yWjd8ZnMtZnQucC45NFpTLTI4Rjo0MDAwMDFYNTJaSXRGVzRNT0FyRmswMDE=" disputing="false" contributor="MMMM-MM8">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+				<relationship scope="couple" version="1174510756756" submitter="MMMM-MM8" modified="2007-03-21T14:59:16.756-06:00" modifiable="false" id="Y2ZzLWZ0LnAuOTRaUy0yWjd8ZnMtZnQucC45NFpTLTI4Rjo0MDAwMDFYNTJaSXRGVzRNT0F0ZG8wMDA=" disputing="false" contributor="MMMM-MM8">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+				<relationship scope="couple" version="1174510756756" submitter="MMMM-MM8" modified="2007-03-21T14:59:16.756-06:00" modifiable="false" id="Y2ZzLWZ0LnAuOTRaUy0yWjd8ZnMtZnQucC45NFpTLTI4Rjo0MDAwMDFYNTJaSXRGVzRNT0F1NUowMDE=" disputing="false" contributor="MMMM-MM8">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+				<relationship scope="couple" version="1174510756756" submitter="MMMM-MM8" modified="2007-03-21T14:59:16.756-06:00" modifiable="false" id="Y2ZzLWZ0LnAuOTRaUy0yWjd8ZnMtZnQucC45NFpTLTI4Rjo0MDAwMDFYNTJaSXRGVzRNT0F1dVYwMDA=" disputing="false" contributor="MMMM-MM8">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+				<relationship scope="couple" version="1174510756756" submitter="MMMM-MM8" modified="2007-03-21T14:59:16.756-06:00" modifiable="false" id="Y2ZzLWZ0LnAuOTRaUy0yWjd8ZnMtZnQucC45NFpTLTI4Rjo0MDAwMDFYNTJaSXRGVzRNT0F2SUYwMDE=" disputing="false" contributor="MMMM-MM8">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+				<relationship scope="couple" version="1174510756756" submitter="MMMM-MM8" modified="2007-03-21T14:59:16.756-06:00" modifiable="false" id="Y2ZzLWZ0LnAuOTRaUy0yWjd8ZnMtZnQucC45NFpTLTI4Rjo0MDAwMDFYNTJaSXRGVzRNT0F2a2MwMDE=" disputing="false" contributor="MMMM-MM8">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+				<relationship scope="couple" version="1174510756756" submitter="MMMM-MM8" modified="2007-03-21T14:59:16.756-06:00" modifiable="false" id="Y2ZzLWZ0LnAuOTRaUy0yWjd8ZnMtZnQucC45NFpTLTI4Rjo0MDAwMDFYNTJaSXRGVzRNT0F3cTQwMDE=" disputing="false" contributor="MMMM-MM8">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+				<relationship scope="couple" version="1174510761698" submitter="MMMM-MM8" modified="2007-03-21T14:59:21.698-06:00" modifiable="false" id="Y2ZzLWZ0LnAuOTRaUy0yWjd8ZnMtZnQucC45NFpTLTI4Rjo0MDAwMDFYNTJaSXRGVzRNT0F5UncwMEY=" disputing="false" contributor="MMMM-MM8">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+				<relationship scope="couple" version="1174510761698" submitter="MMMM-MM8" modified="2007-03-21T14:59:21.698-06:00" modifiable="false" id="Y2ZzLWZ0LnAuOTRaUy0yWjd8ZnMtZnQucC45NFpTLTI4Rjo0MDAwMDFYNTJaSXRGVzRNT0F6SUowMDA=" disputing="false" contributor="MMMM-MM8">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+				<relationship scope="couple" version="1172737485580" submitter="MMMM-MM8" modified="2007-03-01T01:24:45.580-07:00" modifiable="false" id="Y2ZzLWZ0LnAuTUtLWS1KV0R8ZnMtZnQucC5NS0tZLUo4Njo0MDAwMDVtNTJaSXRIMTRGbU9xUXMwMDA=" disputing="false" contributor="MMWG-V3Y">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+				<relationship scope="couple" version="1172796371203" submitter="MMMM-MM8" modified="2007-03-01T17:46:11.203-07:00" modifiable="false" id="Y2ZzLWZ0LnAuTUsyTi03Qzd8ZnMtZnQucC5NSzJOLTdDTjo0MDAwMDV3YjJaTXRIMTRHMFJVaXcwMDA=" disputing="false" contributor="MMWG-V3Y">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+				<relationship scope="couple" version="1216100478336" submitter="MMMM-MM8" modified="2008-07-14T23:41:18.336-06:00" modifiable="false" id="Y2ZzLWZ0LnAuOU1MWC1WSDR8ZnMtZnQucC5ORzFSLVk5WTo0MDAwMDU3NDJaSXRIVzRHbHJfYnMwMDA=" disputing="false" contributor="MMWG-V3Y">
+					<spouse role="Woman" ref="NG1R-Y9Y"/>
+				</relationship>
+				<relationship scope="couple" version="1173255153567" submitter="MMMM-MM8" modified="2007-03-07T01:12:33.567-07:00" modifiable="false" id="Y2ZzLWZ0LnAuTUsyRC1LQkZ8ZnMtZnQucC5NSzJELUsxMzo0MDAwMDV3TzJaTXRHVzRIaG95ZTAwMDA=" disputing="false" contributor="MMWG-V3Y">
+					<spouse role="Woman" ref="KFB8-WLJ"/>
+				</relationship>
+			</assertions>
+		</person>
+	</persons>
+</familytree>
