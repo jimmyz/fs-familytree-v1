@@ -3,10 +3,12 @@ gem 'jimmyz-happymapper'
 require 'happymapper'
 
 module FsFamilytreeV1
-
+  NS = 'http://api.familysearch.org/familytree/v1'
+  
   class AlternateIds
     include HappyMapper
     
+    namespace_url NS
     tag :alternateIds
     has_many :id, String
   end
@@ -14,6 +16,7 @@ module FsFamilytreeV1
   class PersonInformation
     include HappyMapper
     
+    namespace_url NS
     tag :information
     element :gender, String
     element :living, Boolean
@@ -23,6 +26,7 @@ module FsFamilytreeV1
   class NamePiece
     include HappyMapper
     
+    namespace_url NS
     tag :piece
     attribute :type, String
     element :value, String
@@ -31,12 +35,14 @@ module FsFamilytreeV1
   class Pieces
     include HappyMapper
     
+    namespace_url NS
     has_many :piece, NamePiece
   end
   
   class NameForm
     include HappyMapper
     
+    namespace_url NS
     tag :form
     element :fullText, String
     has_one :pieces, Pieces
@@ -46,6 +52,7 @@ module FsFamilytreeV1
   class Forms
     include HappyMapper
     
+    namespace_url NS
     has_many :form, NameForm
   end
   
@@ -53,6 +60,7 @@ module FsFamilytreeV1
     def self.init(options = {})
       include HappyMapper
       
+      namespace_url NS
       attribute :id, String
       attribute :version, String
       attribute :submitter, String
@@ -80,6 +88,7 @@ module FsFamilytreeV1
   class DateAstro
     include HappyMapper
     
+    namespace_url NS
     tag :astro
     element :earliest, Integer
     element :latest, Integer
@@ -88,6 +97,7 @@ module FsFamilytreeV1
   class Date
     include HappyMapper
     
+    namespace_url NS
     element :original, String
     element :normalized, String
     element :astro, DateAstro
@@ -96,6 +106,7 @@ module FsFamilytreeV1
   class Place
     include HappyMapper
     
+    namespace_url NS
     element :original, String
     element :normalized, String, :attributes => {:placeId => String}
   end
@@ -104,6 +115,7 @@ module FsFamilytreeV1
     def self.init
       include HappyMapper
       
+      namespace_url NS
       attribute :role, String
       attribute :ref, String
       attribute :tempId, String
@@ -158,6 +170,7 @@ module FsFamilytreeV1
   class Assertions
     include HappyMapper
     
+    namespace_url NS
     has_many :name, Name
     has_many :gender, Gender
     has_many :event, Event
@@ -168,6 +181,7 @@ module FsFamilytreeV1
   class Person
     include HappyMapper
     
+    namespace_url NS
     attribute :id, String
     attribute :requestedId, String
     attribute :version, String
@@ -179,12 +193,14 @@ module FsFamilytreeV1
   class Persons
     include HappyMapper
     
+    namespace_url NS
     has_many :person, Person
   end
   
   class Familytree
     include HappyMapper
     
+    namespace_url NS
     attribute :version, String
     attribute :statusMessage, String
     attribute :statusCode, Integer
