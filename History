@@ -1,0 +1,11 @@
+== 0.2.1
+* Minor cleanup
+	* removed the Cucumber features directory
+
+== 0.2.0
+* 1 major enhancement
+	* functionality added for making HTTP calls via an FsCommunicator object
+
+== 0.1.0
+* 1 major enhancement
+	* functionality for parsing a standard person read
