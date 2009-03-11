@@ -1,6 +1,11 @@
+dir = File.dirname(__FILE__)
+$:.unshift(dir) unless $:.include?(dir) || $:.include?(File.expand_path(dir))
+
 require 'rubygems'
 gem 'jimmyz-happymapper'
 require 'happymapper'
+
+require 'communicator'
 
 module FsFamilytreeV1
   NS = 'http://api.familysearch.org/familytree/v1'
