@@ -9,6 +9,21 @@ begin
     s.homepage = "http://github.com/jimmyz/fs-familytree-v1"
     s.description = "TODO"
     s.authors = ["Jimmy Zimmerman"]
+    if s.respond_to? :specification_version then
+      current_version = Gem::Specification::CURRENT_SPECIFICATION_VERSION
+      s.specification_version = 2
+
+      if Gem::Version.new(Gem::RubyGemsVersion) >= Gem::Version.new('1.2.0') then
+        s.add_runtime_dependency(%q<jimmyz-happymapper>, [">= 0.3.3"])
+        s.add_runtime_dependency(%q<jimmyz-fs-communicator>, [">= 0.2.0"])
+      else
+        s.add_dependency(%q<jimmyz-happymapper>, [">= 0.3.3"])
+        s.add_dependency(%q<jimmyz-fs-communicator>, [">= 0.2.0"])
+      end
+    else
+      s.add_dependency(%q<jimmyz-happymapper>, [">= 0.3.3"])
+      s.add_dependency(%q<jimmyz-fs-communicator>, [">= 0.2.0"])
+    end
   end
 rescue LoadError
   puts "Jeweler not available. Install it with: sudo gem install technicalpickles-jeweler -s http://gems.github.com"
